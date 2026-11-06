@@ -1,0 +1,37 @@
+services:
+  app:
+    image: dqhdev/aichuanxd:latest
+    container_name: aichuanxd
+    restart: unless-stopped
+    ports:
+      - "9990:9999"
+    env_file:
+      - .env
+
+    environment:
+      # ===============================
+      # SYSTEM
+      # ===============================
+      TZ: Asia/Ho_Chi_Minh
+
+      # ===============================
+      # VECTOR DATABASE (Qdrant)
+      # ===============================
+      VECTORDB_HOST: qdrant
+      VECTORDB_PORT: 6333
+
+      # ===============================
+      # LLM / AI
+      # ===============================
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      HF_TOKEN: ${HF_TOKEN}
+
+    # ?? ADD THIS
+    volumes:
+      - /home/ubuntu/dqh/api_chuanxd/data/processed:/home/ubuntu/dqh/api_chuanxd/data/processed:ro
+
+    networks:
+      - admission_net
+networks: 
+  admission_net: 
+    external: true

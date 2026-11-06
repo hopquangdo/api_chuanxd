@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "aae4fa75-7848-4d7d-b799-4b7a9f8fccab",
+    "text": "Tiêu chuẩn này quy định các yêu cầu khi thiết kế và lắp đặt các hệ thống thông gió và điều hòa không khí cho các gian phòng/không gian của công trình dân dụng khi xây dựng mới hoặc cải tạo.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 1
+  },
+  {
+    "id": "6629bbea-6161-4b69-bf90-3b467d12d07a",
+    "text": "Tiêu chuẩn này có thể áp dụng cho các gian phòng/không gian của nhà công nghiệp có yêu cầu về thông gió và điều hoà không khí để đảm bảo điều kiện tiện nghi nhiệt và yêu cầu vệ sinh, nếu không có quy định khác trong nhiệm vụ thiết kế.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 1
+  },
+  {
+    "id": "c0e97525-c346-4899-ab8c-853475ef3d6a",
+    "text": "",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 1
+  },
+  {
+    "id": "c52f306e-af41-4b10-9c4c-ef902fd3cf48",
+    "text": "Tiêu chuẩn này không áp dụng cho các loại công trình và hệ thống sau đây: - Các phòng/không gian của nhà sản xuất có áp dụng quy trình công nghệ/quy trình sản xuất;- Hệ thống thông gió và điều hoà không khí cho hầm trú ẩn; cho công trình có chứa và sử dụng chất phóng xạ, chất cháy nổ, có nguồn phát xạ ion; cho hầm mỏ;- Hệ thống làm nóng, làm lạnh và xử lý bụi chuyên dụng, các hệ thống thiết bị công nghệ và thiết bị điện, các hệ thống vận chuyển bằng khí nén;- Hệ thống sưởi ấm trung tâm bằng nước nóng hoặc hơi nước. CHÚ THÍCH: Đối với những trường hợp cần sưởi ấm thi hệ thống thông gió và điều hoà không khí đảm nhiệm chức năng này phải phù hợp với các tiêu chuẩn có liên quan.2 Tài liệu viện dẫn Các tài liệu viện dẫn sau là cần thiết cho việc áp dụng tiêu chuẩn này. Đối với các tài liệu viện dẫn ghi năm công bố thì áp dụng phiên bản được nêu. Đối với các tài liệu viện dẫn không ghi năm công bố thì áp dụng phiên bản mới nhất, bao gồm cả các sửa đổi, bổ sung (nếu có).TCVN 6739:2015 (ISO 817:2014), Môi chất lạnh - Ký hiệu và phân loại an toàn;TCVN 13521:2022, Nhà ở và nhà công cộng - Các thông số chất lượng không khí trong nhà;TCVN 13580:2023, Thông gió và điều hòa không khí - Yêu cầu chế tạo đường ống;TCVN 13581:2023, Thông gió và điều hòa không khí - Yêu cầu lắp đặt đường ống và nghiệm thu hệ thống.3 Thuật ngữ và định nghĩa Trong tiêu chuẩn này sử dụng các thuật ngữ và định nghĩa sau:",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 1
+  },
+  {
+    "id": "8f80c9f9-2bcf-4127-8388-d3fed77878f4",
+    "text": "Cách nhiệt (thermal insulation) Vật liệu có khả năng chống truyền nhiệt được sử dụng chủ yếu để làm chậm sự tăng/giảm nhiệt.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 2
+  },
+  {
+    "id": "8101ff26-c981-490e-8139-3b69b6c68d5d",
+    "text": "Cửa gió (air diffuser) Cửa phân phối không khí hình tròn, hình vuông hoặc hình chữ nhật, bao gồm các bộ phận chỉnh hướng xả không khí theo nhiều hướng và mặt phẳng khác nhau, thường được bố trí trên trần để phân phối không khí.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 2
+  },
+  {
+    "id": "31b597d3-e480-4af2-94ee-a2be5970d9e8",
+    "text": "Cửa nắp thu khói/cửa trời/cửa chớp (smoke collection opening/sky opening/shutter) Phương tiện (thiết bị) được điều khiển tự động và điều khiển từ xa, đậy các lỗ mở trên tường ngoài nhà bao che gian phòng được bảo vệ bằng hệ thống hút và xả khói theo cơ chế tự nhiên.[Điều 1.4.11, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 2
+  },
+  {
+    "id": "8352d57b-cbbb-473c-9faa-b9101a144332",
+    "text": "Cửa thu khói (smoke collection opening) Lỗ mở trong kênh (ống) của hệ thống hút xả khói, được đặt lưới, song chắn hoặc cửa nắp hút khói hoặc các van ngăn cháy thường đóng.[Điều 1.4.13, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 2
+  },
+  {
+    "id": "dcaf8653-7afb-4f13-a324-7ab10208a713",
+    "text": "Cửa xả (exhaust opening) Lỗ mở để không khí thoát ra khỏi phòng/không gian được điều hòa không khí hoặc thông gió.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 2
+  },
+  {
+    "id": "ed4eaf89-c9e8-4d5c-98a9-30d28cc2b0a9",
+    "text": "Điều hòa không khí (air conditioning) Quá trình xử lý không khí nhằm kiểm soát đồng thời nhiệt độ, độ ẩm, độ sạch và phân phối không khí đáp ứng yêu cầu của phòng/không gian được điều hòa.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 2
+  },
+  {
+    "id": "51d33f83-2e02-40ad-870d-e6ec83d259be",
+    "text": "Điều khiển (control) Thiết bị để điều khiển hệ thống hoặc một phần của hệ thống hoạt động bình thường bằng thủ công hoặc tự động.Nếu tự động, nó sẽ tự phản ứng với những thay đổi của áp suất, nhiệt độ hoặc các đặc tính khác với giá trị được cài đặt trước.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 3
+  },
+  {
+    "id": "32382c63-2576-4ae9-9356-26da34f1efc7",
+    "text": "Đường thoát nạn (escape exit/escape route) Đường di chuyển của người, dẫn trực tiếp ra ngoài hoặc dẫn vào vùng an toàn, tầng lánh nạn, gian lánh nạn, và đáp ứng các yêu cầu thoát nạn an toàn của người khi có cháy.[Điều 1.4.16, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 3
+  },
+  {
+    "id": "4a0fcf9e-51c6-4939-85fe-13714341b377",
+    "text": "Dàn ngưng (condenser) Thiết bị trong đó hơi môi chất được hóa lỏng thông qua giải nhiệt, loại bỏ nhiệt.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 3
+  },
+  {
+    "id": "082dc795-fb04-479c-b1dd-e83cb39a1b7b",
+    "text": "Hệ thống bảo vệ chống cháy (fire protection system) Hệ thống bảo vệ chống cháy gồm: hệ thống bảo vệ chống nhiễm khói, hệ thống họng nước chữa cháy bên trong, hệ thống cấp nước chữa cháy ngoài nhà, các hệ thống chữa cháy tự động, hệ thống báo cháy và âm thanh công cộng, hệ thống đèn chiếu sáng sự cố và đèn chỉ dẫn thoát nạn, thang máy chữa cháy, phương tiện cứu nạn cứu hộ, giải pháp kết cấu, giải pháp thoát nạn, giải pháp ngăn khói, ngăn cháy lan.[Điều 1.4.24, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 3
+  },
+  {
+    "id": "6754294f-3253-4116-a11f-f71261acff76",
+    "text": "Hệ thống cấp không khí chống khói (air supply system for smoke prevention) Hệ thống được điều khiển tự động và điều khiển từ xa, có tác dụng ngăn chặn nhiễm khói khi có cháy đối với các gian phòng thuộc vùng an toàn, các buồng thang bộ, các giếng thang máy, các khoang đệm ngăn cháy bằng cách cấp không khí từ ngoài vào và tạo ra áp suất dư trong các khu vực trên, cũng như các tác dụng ngăn chặn việc lan truyền các sản phẩm cháy và cấp không khí bù lại thể tích sản phẩm đã bị đẩy ra ngoài.[Điều 1.4.25, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 3
+  },
+  {
+    "id": "c9d414c6-80e1-4009-a5e8-e32402c55818",
+    "text": "Hệ thống hút xả khói (smoke exhaust system) Hệ thống được điều khiển tự động và điều khiển từ xa, có tác dụng đẩy khói và các sản phẩm cháy qua cửa thu khói ngoài trời.[Điều 1.4.26, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 3
+  },
+  {
+    "id": "4fa3cf6b-8f6e-48ad-b2bb-cf175e08fa1e",
+    "text": "Hệ thống xử lý không khí (air handling system) Hệ thống cung cấp không khí được xử lý có kiểm soát đến các phòng/không gian cụ thể bằng một hoặc nhiều thiết bị xử lý không khí, ống dẫn, hộp chứa, thiết bị phân phối không khí và điều khiển tự động.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 4
+  },
+  {
+    "id": "c0d1c662-8c99-462c-a730-1bd9ae223cdb",
+    "text": "Khói (smoke) Bụi khí hình thành bởi sản phẩm cháy không hoàn toàn của vật liệu dưới dạng lỏng và (hoặc) rắn.[Điều 1.4.32, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 4
+  },
+  {
+    "id": "8c26e23b-99db-4761-8eb5-754d64ec0cf8",
+    "text": "Cụm trong nhà (indoor unit) Thiết bị dùng để xử lý nhiệt - ẩm không khí, lắp đặt trong không gian điều hoà, thường bao gồm quạt và thiết bị trao đổi nhiệt.[Điều 3.24, TCVN 13580:2023]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 4
+  },
+  {
+    "id": "ae30e7a1-1b09-4b15-97ff-37b337d1334f",
+    "text": "Cụm ngoài nhà (outdoor unit) Thiết bị dùng để thực hiện trao đổi nhiệt giữa môi chất lạnh với chất giải nhiệt (không khí hoặc nước), lắp đặt ngoài không gian điều hòa, thường gồm máy nén, quạt và thiết bị trao đổi nhiệt.[Điều 3.25, TCVN 13580:2023]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 4
+  },
+  {
+    "id": "d531286c-ff1a-47d1-9a6c-0206f24ccd4f",
+    "text": "Không khí ngoài/gió tươi (outdoor air) Không khí ngoài trời được cung cấp cho mỗi hoặc bất kỳ phòng/không gian nào trong một hệ thống, hoặc tổng lượng không khí được cung cấp cho tất cả các phòng/không gian trong một hệ thống.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 4
+  },
+  {
+    "id": "dfd6ecd7-91c1-47af-a655-a6a069c934e4",
+    "text": "Không khí hồi/gió hồi (return air) Không khí tái tuần hoàn trở lại từ phòng/không gian có điều hòa hoặc thiết bị làm lạnh.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 4
+  },
+  {
+    "id": "c275f67f-e5c2-476f-a404-934bee4022b0",
+    "text": "Không khí thải/gió thải (exhaust air) Không khí không phải là không khí tuần hoàn, được hút ra khỏi phòng/không gian và thải vào môi trường xung quanh.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 5
+  },
+  {
+    "id": "637d8920-a0f3-4cf5-8330-c4136db941cf",
+    "text": "Không khí tuần hoàn/gió tuần hoàn (reciculation air) Không khí trong phòng/không gian đi qua bộ phận làm sạch và quay trở lại chính phòng/không gian đó hoặc sang phòng/không gian khác.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 5
+  },
+  {
+    "id": "768bc190-8f91-4177-acfe-9aa24d3fa61a",
+    "text": "Lối ra thoát nạn/lối thoát nạn/cửa thoát nạn (exit access) Lối hoặc cửa dẫn tới đường thoát nạn, dẫn ra ngoài trực tiếp hoặc dẫn vào vùng an toàn, tầng lánh nạn, gian lánh nạn.[Điều 1.4.33, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 5
+  },
+  {
+    "id": "57089d5a-d9b7-43cd-9862-7aa34abf5bca",
+    "text": "Máy điều hòa không khí lưu lượng môi chất lạnh thay đổi (variable refrigeration volume/variable refrigeration flow) VRV/VRF Máy điều hòa không khí điều chỉnh công suất lạnh bằng cách thay đổi thể tích/lưu lượng môi chất lạnh đi qua dàn bay hơi.[Điều 3.23, TCVN 13580:2023]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 5
+  },
+  {
+    "id": "20e1b3a4-f505-48ae-b71e-82de0c3ca0fc",
+    "text": "Máy sản xuất nước lạnh (water chiller) Thiết bị làm lạnh nước (chất tải lạnh) trong hệ thống điều hòa không khí.[Điều 3.16, TCVN 13580:2023]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 5
+  },
+  {
+    "id": "334ee17f-8433-413f-b5bc-a28f0cf38c09",
+    "text": "Ngưng tụ (condensale) Chất lỏng được hình thành do sự ngưng tụ của hơi, chẳng hạn như không khí ẩm khi chảy qua dàn lạnh của máy điều hòa không khí được ngưng tụ thành nước.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 5
+  },
+  {
+    "id": "c4304d1e-ae83-4014-8550-ffb0acf908fe",
+    "text": "Ống (duct) Ống làm bằng kim loại hoặc vật liệu thích hợp khác, được sử dụng để vận chuyển không khí.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 6
+  },
+  {
+    "id": "2a2cd51e-8d71-4633-929a-a8cbad457803",
+    "text": "Rò rỉ (exfiltration) Không khí thoát ra ngoài qua tường, cửa ra vào, cửa sổ, vết nứt, v.v.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 6
+  },
+  {
+    "id": "5f321057-7f53-4a4d-8810-2ba11e34b082",
+    "text": "Tháp giải nhiệt (cooling tower) Thiết bị làm mát nước giải nhiệt từ bình ngưng tụ của chiller, máy điều hòa không khí lưu lượng môi chất lạnh thay đổi, máy điều hòa không khí tổ hợp có bình ngưng giải nhiệt nước.[Điều 3.19, TCVN 13580:2023]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 6
+  },
+  {
+    "id": "f8707488-8070-499e-8293-6ce97ff451be",
+    "text": "Rò lọt (infiltration) Không khí lọt vào bên trong qua vết nứt trên tường, cửa ra vào, cửa sổ, v.v.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 6
+  },
+  {
+    "id": "6924206a-9db8-48a3-b903-fb6c6214d1b9",
+    "text": "Thiết bị bay hơi (evaporator) Một phần của hệ thống lạnh, trong đó môi chất lạnh được hóa hơi để làm lạnh môi trường.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 6
+  },
+  {
+    "id": "2d6d7bf3-bc07-46cb-8f06-a473175d45e3",
+    "text": "Thông gió (ventilation) Quá trình cung cấp hoặc loại bỏ không khí, bằng tự nhiên hoặc cơ khí cho bất kỳ phòng/không gian nào. Không khí có thể đã được điều hòa hoặc không.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 6
+  },
+  {
+    "id": "36299160-b513-4649-9dc5-5cd9c2a20524",
+    "text": "Thông gió thoát khói (smoke exhaust ventilation) Quá trình trao đổi khí được điều khiển, diễn ra bên trong nhà khi có cháy ở một trong những gian phòng của nhà, có tác dụng ngăn chặn các tác động có hại của các sản phẩm cháy (gia tăng nồng độ các chất độc, gia tăng nhiệt độ và thay đổi mật độ quang học của không khí) đến con người và tài sản.[Điều 1.4.63, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 6
+  },
+  {
+    "id": "867251e4-8b99-4628-8c55-f2a9c25d3be6",
+    "text": "Số lần trao đổi không khí (air change) Tỷ lệ giữa thể tích không khí cấp vào hoặc hút ra khỏi một phòng/không gian bằng cách tự nhiên hoặc cơ khí và thể tích của phòng/không gian đó.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 6
+  },
+  {
+    "id": "ab80af5b-dff5-43cb-a938-945714f70dfd",
+    "text": "Van gió (damper) Bộ phận phân nhánh ống gió tại mỗi tầng từ ống gom đứng, có tác dụng đảm bảo dòng khí (khói và các sản phẩm cháy) trong ống gió quay ngược lại vào ống gom đứng để ngăn chặn nhiễm khói cho các tầng trên.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 7
+  },
+  {
+    "id": "928f5c16-07d1-49bc-87bb-94d7ec19f592",
+    "text": "Van khói (smoke damper) Van ngăn cháy thường đóng, chỉ yêu cầu giới hạn chịu lửa E và được lắp đặt trên lỗ mở của các giếng hút khói trong các hành lang và sảnh được bảo vệ chống khói (tiếp theo gọi là hành lang).[Điều 1.4.67, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 7
+  },
+  {
+    "id": "1142bc02-c692-4a1a-b176-9196a8dfebc0",
+    "text": "Van ngăn cháy (fire damper) Thiết bị được điều khiển tự động và điều khiển từ xa dùng để che chắn các kênh thông gió hoặc các lỗ mở trên kết cấu bao che của nhà, có giới hạn chịu lửa theo tiêu chí EI. Van ngăn cháy gồm các loại sau: - Van ngăn cháy thường mở (đóng khi có cháy);- Van ngăn cháy thường đóng (mở khi có cháy hoặc sau cháy);- Van ngăn cháy kép (đóng khi có cháy và mở sau cháy).[Điều 1.4.68, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 7
+  },
+  {
+    "id": "3b2cfecd-62a8-4698-aeda-12b6d13e9bd2",
+    "text": "Vùng an toàn (safety zone) Vùng mà trong đó con người được bảo vệ khỏi tác động từ các yếu tố nguy hiểm của đám cháy hoặc trong đó không có các yếu tố nguy hiểm của đám cháy, hoặc các yếu tố nguy hiểm của đám cháy không vượt quá giá trị cho phép.[Điều 1.4.69, QCVN 06:2022/BXD]",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 7
+  },
+  {
+    "id": "d575b3f5-1ec2-4541-8638-c6640dfeb13a",
+    "text": "Vùng khói (smoke zone) Vùng bên trong một công trình được giới hạn hoặc bao bọc xung quanh bằng các bộ phận ngăn khói hoặc cấu kiện kết cấu để ngăn cản sự lan truyền của lớp khói bốc lên do nhiệt trong các đám cháy.[Điều 1.4.70, Sửa đổi 01:2023 QCVN 06:2022/BXD] 4 Quy định chung",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 7
+  },
+  {
+    "id": "7c7dfece-1ff0-469a-b77f-20200ad2284c",
+    "text": "Hệ thống thông gió và điều hoà không khí phải được thiết kế để đảm bảo điều kiện tiện nghi nhiệt và yêu cầu vệ sinh cho người và mọi hoạt động dự kiến, đảm bảo sử dụng năng lượng tiết kiệm và hiệu quả.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 8
+  },
+  {
+    "id": "3b890936-e3e5-48d1-849a-42c80c83b48f",
+    "text": "Khi thiết kế thông gió và điều hoà không khí cần áp dụng các giải pháp kỹ thuật, kể cả các giải pháp về công nghệ và kiến trúc, nhằm bảo đảm: a) Hệ thống thông gió và điều hoà không khí phải được thiết kế để đáp ứng các yêu cầu về nhiệt độ và độ ẩm trong nhà của phòng/không gian mà nó phục vụ khi hoạt động ở mức đầy tải hoặc ở mức tải một phần;b) Khi thiết kế hệ thống thông gió và điều hoà không khí trung tâm, cần tính toán tải lạnh, tải nhiệt hiện, tải nhiệt ẩn và tải thông gió;c) Chất lượng không khí trong nhà, trong vùng làm việc của công trình công cộng phù hợp với TCVN 13521:2022;d) Độ ồn và độ rung tiêu chuẩn phát ra từ các thiết bị và hệ thống thông gió và điều hoà không khí, trừ hệ thống thông gió sự cố và hệ thống thải khói phù hợp tiêu chuẩn lựa chọn áp dụng;e) Điều kiện tiếp cận để sửa chữa hệ thống thông gió và điều hoà không khí;f) Độ an toàn cháy nổ của hệ thống thông gió và điều hoà không khí theo quy định về an toàn cháy cho nhà và công trình [6];g) Yêu cầu tiết kiệm năng lượng trong sử dụng và vận hành phù hợp quy định hiện hành [7].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 8
+  },
+  {
+    "id": "bcee2cc3-377b-48d2-95c4-fb2be28885b2",
+    "text": "Thiết bị thông gió và điều hoà không khí, các loại đường ống lắp đặt trong các phòng có môi trường ăn mòn hoặc dùng để vận chuyển môi chất có tính ăn mòn phải được chế tạo từ vật liệu chống ăn mòn hoặc được phủ bề mặt bằng lớp sơn chống gỉ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 8
+  },
+  {
+    "id": "a2531320-0f28-48b5-901b-1624250ec5e4",
+    "text": "Phải có lớp cách nhiệt trên các bề mặt nóng của thiết bị thông gió và điều hoà không khí để đề phòng khả năng gây cháy các loại khí, hơi, son khí, bụi có thể có trong phòng với yêu cầu nhiệt độ mặt ngoài của lớp cách nhiệt phải thấp hơn 20 % nhiệt độ bốc cháy của các loại khí, hơi v.v. nêu trên.CHÚ THÍCH: Khi không có khả năng giảm nhiệt độ mặt ngoài của lớp cách nhiệt đạt mức yêu cầu nêu trên thì không được bố trí các loại thiết bị đó trong phòng có các loại khí hơi dễ bốc cháy.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 8
+  },
+  {
+    "id": "20ffc92b-dc05-48c7-80e2-f42e1272d498",
+    "text": "Cấu tạo lớp cách nhiệt đường ống dẫn không khí lạnh và dẫn nước nóng/lạnh phải được thiết kế và lắp đặt phù hợp tiêu chuẩn lựa chọn áp dụng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 8
+  },
+  {
+    "id": "8722ed45-8ad8-436a-af54-caac11f05ec7",
+    "text": "Các thiết bị thông gió và điều hoà không khí phi tiêu chuẩn, đường ống dẫn không khí và vật liệu cách nhiệt phải được chế tạo từ những vật liệu được phép dùng trong xây dựng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 8
+  },
+  {
+    "id": "fcc3de39-d873-4f9a-b542-3d8214d94222",
+    "text": "Phân loại các hệ thống điều hoà không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 8
+  },
+  {
+    "id": "46e0cd3e-3680-4da9-85c1-06f88c1b3368",
+    "text": "1 Các hệ thống điều hòa không khí được phân loại theo các đặc điểm: a) Mục đích sử dụng: Điều hòa tiện nghi và điều hòa công nghệ;b) Tính chất quan trọng;c) Tính tập trung;d) Cách làm lạnh không khí;e) Cách phân phối không khí;f) Năng suất lạnh;g) Chức năng (chỉ làm lạnh hay có khả năng làm lạnh và sưởi ấm);h) Cách bố trí dàn lạnh.5 Các thông số của không khí trong phòng và bên ngoài",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 8
+  },
+  {
+    "id": "c3fe929c-cb27-42cb-b763-bc035bd48093",
+    "text": "Thông số của không khí trong phòng",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 9
+  },
+  {
+    "id": "78a682ac-3ec9-4523-ae75-68b09aa8f486",
+    "text": "1 Khi thiết kế điều hòa không khí nhằm đảm bảo điều kiện tiện nghi nhiệt cho cơ thể con người, thông số của không khí trong phòng lấy theo Phụ lục A.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 9
+  },
+  {
+    "id": "b866d22a-e9ef-41ce-96c9-a68f72282875",
+    "text": "2 Đối với thông gió tự nhiên và cơ khí, về mùa nóng nhiệt độ tính toán của không khí bên trong phòng không được vượt quá 3 °C so với nhiệt độ cao nhất trung bình ngoài trời của tháng nóng nhất trong năm [2]. Về mùa lạnh nhiệt độ tính toán của không khí bên trong phòng có thể lấy theo Phụ lục A.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 9
+  },
+  {
+    "id": "9d179e8f-750f-4e18-8197-5640a2de9dc0",
+    "text": "3 Trường hợp thông gió tự nhiên hoặc cơ khí nếu không đảm bảo được điều kiện tiện nghi nhiệt theo Phụ lục A thì để bù vào độ gia tăng nhiệt độ của môi trường cần tăng vận tốc chuyển động của không khí để giữ được chỉ tiêu cảm giác nhiệt trong phạm vi cho phép, ứng với mỗi 1 °C tăng nhiệt độ cần tăng thêm vận tốc gió từ 0,5 m/s đến 0,8 m/s, nhưng không nên vượt quá 1,5 m/s.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 9
+  },
+  {
+    "id": "a6f61dd8-21f1-4610-8c2e-054b0fb269b5",
+    "text": "Thông số của không khí bên ngoài",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 9
+  },
+  {
+    "id": "5e938561-c4b1-4776-a6bf-0eedcc6bb077",
+    "text": "1 Thông số không khí bên ngoài dùng để thiết kế thông gió tự nhiên và thông gió cơ khí là nhiệt độ không khí cao nhất trung bình tháng về mùa nóng hoặc nhiệt độ không khí thấp nhất trung bình tháng lạnh nhất về mùa lạnh [2].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 9
+  },
+  {
+    "id": "2729bb15-6663-4e31-9bdc-4f445e9ae0b4",
+    "text": "",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 9
+  },
+  {
+    "id": "e6a33524-e2a7-4a8c-8916-ee08bd7e057e",
+    "text": "2 Thông số không khí bên ngoài cho điều hoà không khí cần được chọn theo số giờ cho phép không đảm bảo chế độ nhiệt ẩm bên trong nhà m nêu trong Phụ lục B, tính bằng h/năm, hoặc theo xác suất bảo đảm Pe phù hợp với cấp điều hoà không khí.Cấp điều hoà không khí được phân thành 3 cấp: I, II và III với các thông số bên ngoài cho thiết kế như sau: - Cấp I - với số giờ cho phép không đảm bảo chế độ nhiệt ẩm bên trong nhà là m = 35 h/năm, ứng với xác suất bảo đảm Pe = 0,996 - dùng cho hệ thống điều hoà không khí trong các công trình có công năng đặc biệt quan trọng;- Cấp II - với số giờ cho phép không đảm bảo chế độ nhiệt ẩm bên trong nhà là m = 150 h/năm đến 200 h/năm, ứng với xác suất bảo đảm Pe = (0,983 ÷ 0,977) - dùng cho các hệ thống điều hòa không khí đảm bảo điều kiện tiện nghi nhiệt và điều kiện công nghệ trong các công trình có công năng thông thường;- Cấp III - với số giờ cho phép không đảm bảo chế độ nhiệt ẩm bên trong nhà là m = 350 h/năm đến 400 h/năm, ứng với xác suất bảo đảm Pe = (0,960 ÷ 0,954) - dùng cho các hệ thống điều hoà không khí trong các công trình có công năng không đòi hỏi cao về chế độ nhiệt ẩm và khí thông số bên trong nhà không thể đảm bảo được bằng thông gió tự nhiên hay cơ khí thông thường không có xử lý nhiệt ẩm.Thông số không khí bên ngoài cho điều hoà không khí theo số giờ cho phép không đảm bảo chế độ nhiệt ẩm bên trong nhà m lấy theo Phụ lục B hoặc có thể tham khảo cách chọn thông số của không khí bên ngoài theo tần suất tích lũy xuất hiện hàng năm (annual cumulative frequency of occurrence) của nhiệt độ khô và nhiệt độ ướt trùng hợp Pc lấy theo Phụ lục C.CHÚ THÍCH: Tần suất tích lũy xuất hiện hàng năm Pc, %, của nhiệt độ khô và ướt được hiểu là tỷ lệ thời gian trong năm có nhiệt độ bằng hoặc cao hơn trị số nhiệt độ đã chọn.Về múa nóng (cần làm lạnh) có 3 tần suất tích lũy xuất hiện hàng năm Pc được ấn định để chọn thông số của không khí bên ngoài cho điều hoà không khí là: 0,4 % (tương ứng với số giờ không bảo đảm m = 35 h/năm);1,0 % (tương ứng với số giờ không bảo đảm m = 88 h/năm);2,0 % (tương ứng với số giờ không bảo đảm m = 175 h/năm).Về mùa lạnh (cần sưởi ấm) có 2 tần suất tích lũy xuất hiện hàng năm: 99,6 % (tương ứng với số giờ không bảo đảm m = 8725 h/năm);99 % (tương ứng với số giờ không bảo đảm m = 8672 h/năm).Ứng với các tần suất tích lũy xuất hiện hàng năm Pc về mùa nóng là các xác suất bảo đảm Pe: 0,996; 0,990 và 0,980 và về mùa lạnh là các xác suất bảo đảm Pe: 0,996 và 0,990. Mối quan hệ giữa Pc và Pe xem trong CHÚ THÍCH 3 của Bảng C.1.6 Thiết kế hệ thống thông gió và điều hòa không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 9
+  },
+  {
+    "id": "535de9fe-447e-4bb1-a4cb-796e35379cb7",
+    "text": "Chỉ dẫn chung",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 10
+  },
+  {
+    "id": "18da4e2a-ed23-4d9f-a9f5-dca51071e5aa",
+    "text": "1 Cần tận dụng thông gió tự nhiên, thông gió xuyên phòng về mùa nóng và có biện pháp tránh gió lùa về mùa lạnh trong nhà ở và công trình công cộng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 10
+  },
+  {
+    "id": "0a938902-0cf5-49e1-bc8d-bbbc228df706",
+    "text": "2 Đối với công trình cao tầng (có hoặc không có hệ thống điều hoà không khí) cần ưu tiên thiết kế ống đứng thoát khí cho bếp và khu vệ sinh riêng biệt với thông gió cơ khí (quạt hút). Khi công trình có chiều cao dưới 5 tầng có thể áp dụng hệ thống hút tự nhiên bằng áp suất nhiệt hoặc áp suất gió (chụp hút tự nhiên). Trường hợp không thể bố trí ống đứng thoát khí lên trên mái cần tuân thủ quy định trong 6.5.2.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 10
+  },
+  {
+    "id": "3c6ff151-7293-43ba-83fe-595814717ed6",
+    "text": "3 Thông gió cơ khí cần được áp dụng khi: a) Các điều kiện vi khí hậu và độ trong sạch của không khí trong nhà không thể đạt được bằng thông gió tự nhiên;b) Không thể tổ chức thông gió tự nhiên do phòng/không gian nằm ở vị trí kín khuất, trong đó có các loại tầng hầm.Có thể áp dụng biện pháp thông gió hỗn hợp, trong đó có sử dụng một phần thông gió tự nhiên để cấp và thải gió.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 10
+  },
+  {
+    "id": "994d0b3f-bdf2-4bf9-9dee-f3d3e917d98a",
+    "text": "4 Quạt trần và quạt cây được áp dụng bổ sung cho hệ thống thông gió thải vào nhằm tăng vận tốc chuyển động của không khí về mùa nóng tại các vị trí cần thiết.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 10
+  },
+  {
+    "id": "83be9c11-5e7d-4afc-be53-1492c2fdf967",
+    "text": "Lưu lượng không khí ngoài (gió tươi) theo yêu cầu vệ sinh, lưu lượng không khí thổi vào và không khí tuần hoàn (gió hồi)",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 10
+  },
+  {
+    "id": "f214928b-1683-44b5-8520-c91a73afb1b1",
+    "text": "5 Lưu lượng không khí ngoài theo yêu cầu vệ sinh cho các phòng có điều hoà không khí tiện nghi phải được tính toán để pha loãng được các chất độc hại và mùi tỏa ra từ cơ thể con người khi hoạt động và từ đồ vật, trang thiết bị trong phòng. Trong trường hợp không đủ điều kiện tính toán, lượng không khí ngoài có thể lấy theo tiêu chuẩn đầu người hoặc theo diện tích sàn nêu trong Phụ lục E.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "9ec10e23-014f-4bc4-b1e9-38ce362fe353",
+    "text": "6 Đối với các phòng có thông gió cơ khí (không sử dụng điều hoà không khí) lưu lượng không khí ngoài cần tính toán để bảo đảm nồng độ cho phép của các chất độc hại trong phòng, có kể đến yêu cầu bù vào lượng không khí hút thải ra ngoài của các hệ thống hút cục bộ nhằm mục đích tạo chênh lệch áp suất trong phòng theo hướng có lợi.Trường hợp không đủ điều kiện tính toán, lưu lượng không khí ngoài được lấy theo số lần trao đổi không khí nêu trong Phụ lục F.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "946f6f80-a1ff-4e2b-a835-23f82b3b499f",
+    "text": "7 Lưu lượng không khí thổi vào (gió ngoài hoặc hỗn hợp gió ngoài và gió tuần hoàn - gió hòa trộn) phải được xác định bằng tính toán tham khảo Phụ lục G và chọn trị số lớn nhất để bảo đảm yêu cầu vệ sinh và yêu cầu an toàn cháy nổ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "c653dc22-ac04-4d58-9724-91af1ba4f8d2",
+    "text": "8 Không được phép lấy không khí tuần hoàn (gió hồi) trong các trường hợp sau đây: a) Từ các phòng trong đó có khả năng tỏa ra các chất độc hại khi không khí tiếp xúc với bề mặt nóng của thiết bị thông gió như bộ sưởi không khí v.v, nếu trước các thiết bị đó không có phin lọc không khí;b) Riêng hệ thống hút bụi cục bộ (trừ loại bụi trong hỗn hợp với không khí có khả năng gây cháy nổ) sau khi lọc sạch bụi có thể hồi gió vào phòng, nhưng phải đáp ứng yêu cầu được nêu trong 6.6.2.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "49df6dc5-745d-4bdf-866a-151d3c8b53f9",
+    "text": "9 Miệng lấy gió hồi phải được bố trí trong vùng làm việc hoặc vùng phục vụ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "8a44c3ac-e694-4967-ae0a-cd5b9ee95bee",
+    "text": "Tổ chức thông gió và trao đổi không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "a46d770a-28dc-4176-85b4-055785537230",
+    "text": "1 Phân phối không khí thổi vào và hút thải không khí ra ngoài phải được thực hiện phù hợp với công năng sử dụng trong ngày, trong năm, đồng thời có kể đến tính chất thay đổi của các nguồn tỏa nhiệt, tỏa ẩm và các chất độc hại.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "daf4199f-2772-4c30-87c9-a40d1041e18b",
+    "text": "2 Thông gió thổi vào phải được thực hiện trực tiếp đối với các phòng thường xuyên có người sử dụng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "bbe98373-ba15-4d97-a46f-98f0ea394fbc",
+    "text": "3 Lượng không khí thổi vào cho hành lang hoặc các phòng phụ liền kề của phòng chính không được vượt quá 50 % lượng không khí thổi vào phòng chính.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "d73bb162-9d59-4d15-9996-105c85da3808",
+    "text": "4 Không được thổi không khí vào phòng từ vùng ô nhiễm nhiều đến vùng ô nhiễm ít và làm ảnh hưởng đến chế độ làm việc của các miệng hút cục bộ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "011923e5-70ea-4409-880b-3c3b98b74d11",
+    "text": "Vị trí đặt cửa lấy không khí ngoài (gió tươi)",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "ba29b6f2-2289-4050-bc36-e5fb044834bc",
+    "text": "1 Mép dưới của cửa lấy không khí ngoài cho hệ thống thông gió cơ khí hoặc hệ thống điều hoà không khí phải nằm ở độ cao không nhỏ hơn 2 m kể từ mặt đất. Đối với các vùng có gió mạnh mang theo nhiều cát-bụi, mép dưới của cửa lấy không khí ngoài phải nằm ở độ cao không nhỏ hơn 3 m kể từ mặt đất.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "82535451-aab2-477c-8b51-14cdbc6f1923",
+    "text": "2 Cửa lấy không khí ngoài phải được lắp lưới chắn rác, chắn côn trùng, động vật nhỏ cũng như tấm chắn chống mưa hắt.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "ae0a1a46-5277-4a10-817b-2b8e02aacb5f",
+    "text": "3 Cửa hoặc tháp lấy không khí ngoài có thể được đặt trên tường ngoài, trên mái nhà hoặc ngoài sân vườn và phải có khoảng cách không nhỏ hơn 5 m đối với cửa thải gió của nhà lân cận, của nhà bếp, phòng vệ sinh, gara ô tô,tháp làm mát, phòng máy, v.v.Khoảng cách từ cửa hút gió đến tháp giải nhiệt được đo từ mép hoặc kết cấu gần nhất của tháp làm mát, bao gồm chân đế/bồn/bể chứa, vỏ bao che, điểm xả và đầu ra của bất kỳ hệ thống hút mùi nào được lắp đặt.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 11
+  },
+  {
+    "id": "0a085ee8-ff85-4138-9dd7-a7db007a2d5e",
+    "text": "Không khí thải (gió thải)",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "d5486471-d6c4-4de7-8c9a-6db5531bf4bf",
+    "text": "1 Đối với các phòng được điều hoà không khí phải có hệ thống thải không khí ô nhiễm ra ngoài khi cần thiết để nâng cao chất lượng môi trường trong phòng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "a81b6e72-c18b-4487-bedd-85bb164b8a8e",
+    "text": "2 Cửa hoặc miệng ống thải khí phải đặt cách xa cửa lấy không khí ngoài không nhỏ hơn 5 m.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "8b5c3ed9-fc13-49dc-98b6-2f6e6cb7ae2b",
+    "text": "3 Thải không khí từ phòng ra ngoài bằng hệ thống thông gió hút ra phải được thực hiện từ vùng bị ô nhiễm nhiều nhất cũng như vùng có nhiệt độ hoặc entanpy cao nhất. Còn khi trong phòng có tỏa bụi thì không khí thải ra ngoài bằng hệ thống thông gió chung cần hút từ vùng dưới thấp. Không được hướng dòng không khí ô nhiễm vào các vị trí làm việc.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "38f60a94-fb2f-4106-b0d4-0d31f4f18a3f",
+    "text": "4 Miệng hút đặt trên cao của hệ thống thông gió hút chung để thải khí ra ngoài cần được bố trí như sau: - Dưới trần hoặc mái nhưng khoảng cách từ mặt sàn đến mép dưới của miệng hút không nhỏ hơn 2 m khi hút thải nhiệt thừa, ẩm thừa hoặc khí độc hại;- Khoảng cách từ trần hoặc mái đến mép trên của miệng hút không nhỏ hơn 0,4 m khi thải các hỗn hợp hơi khí dễ cháy nổ hoặc son khí (ngoại trừ hỗn hợp của hydro và không khí);- Khoảng cách từ trần hoặc mái đến mép trên của miệng hút không nhỏ hơn 0,1 m đối với các phòng có chiều cao không lớn hơn 4 m hoặc không nhỏ hơn 0,025 lần chiều cao của phòng (nhưng không lớn hơn 0,4 m) đối với các phòng có chiều cao trên 4 m khi hút thải hỗn hợp của hydro và không khí.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "b2b648eb-3848-4260-80df-8c811cc890e9",
+    "text": "5 Miệng hút đặt dưới thấp của hệ thống thông gió hút chung cần được bố trí với khoảng cách nhỏ hơn 0,3 m tính từ sàn đến mép dưới của miệng hút.Lưu lượng không khí hút ra từ các miệng hút cục bộ đặt dưới thấp trong vùng làm việc được xem như là thải không khí từ vùng đó",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "ac331dfd-26c4-4c19-a55c-ccd33af493c6",
+    "text": "Lọc sạch bụi trong không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "c79ed9be-7a28-4c1c-8a8f-ced44de77cf7",
+    "text": "1 Không khí ngoài và không khí tuần hoàn trong các phòng được điều hoà không khí phải được lọc sạch bụi.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "795f90c2-1410-4e07-a92e-de8bfd3252ef",
+    "text": "2 Phải lọc bụi trong không khí thổi vào của các hệ thống thông gió cơ khí và điều hoà không khí để đảm bảo nồng độ bụi sau khi lọc không vượt quá: a) Nồng độ cho phép theo quy định về giá trị giới hạn tiếp xúc tối đa cho phép các yếu tố hóa học tại nơi làm việc [3];b) Nồng độ cho phép theo yêu cầu kỹ thuật đối với thiết bị thông gió.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "dbbdd25e-3616-4c9b-9997-6e15b390b4f4",
+    "text": "3 Phin lọc không khí phải được lắp đặt sao cho không khí chưa được lọc không chảy qua đường vòng phin lọc.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "c5c4cb3f-c142-40e5-8add-a786852ae1b7",
+    "text": "4 Phải có khả năng tiếp cận bộ phận lọc không khí vào bất cứ thời điểm nào cần thiết để kiểm tra tình trạng của bộ lọc và sức cản của nó đối với dòng không khí đi qua.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "d7539cf2-24a4-40aa-a602-cfe1d590aa1c",
+    "text": "Rèm không khí (màn gió)",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 12
+  },
+  {
+    "id": "a77bc948-4973-4939-a950-0ee4d43aade6",
+    "text": "1 Màn gió được áp dụng tại vị trí cửa ra vào của công trình công cộng có điều hoà không khí và cần lựa chọn một trong các phương án sau đây khi số người ra vào thường xuyên trên 300 lượt/h;- Màn gió;- Cửa ra vào qua phòng đệm, cửa quay;- Tạo áp suất dương trong sảnh để hạn chế gió thoát ra ngoài khi mở cửa.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 13
+  },
+  {
+    "id": "dcaadd41-0abf-4c14-ad29-6fd499a34677",
+    "text": "2 Nhiệt độ không khí cấp cho màn gió chống lạnh tại cửa ra vào không được vượt quá 50 °C và vận tốc không được vượt quá 8 m/s.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 13
+  },
+  {
+    "id": "58b94ca3-faa9-4702-b186-92fac97ed3e6",
+    "text": "Thông gió sự cố",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 13
+  },
+  {
+    "id": "328a9784-2740-4bff-8d23-62f41ce94ae0",
+    "text": "1 Thông gió sự cố cho các phòng/không gian mà trong đó có thể phát sinh đột ngột một lượng lớn khí, hơi hoặc son khí độc hại hoặc cháy nổ phải theo yêu cầu công nghệ, có kể đến sự không tương thích giữa yêu cầu công nghệ và thiết bị thông gió tại thời điểm xảy ra sự cố.Lưu lượng không khí để thông gió sự cố phải được xác định theo yêu cầu công nghệ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 13
+  },
+  {
+    "id": "f63cdb1c-5483-4454-aa5e-998b6c49651c",
+    "text": "2 Thông gió sự cố cho các gian phòng hạng A và B phải bằng hệ thống cưỡng bức cơ khí.Nếu nhiệt độ, loại và nhóm của hỗn hợp dễ cháy gồm các khí, hơi và son khí dễ cháy không đáp ứng các thông số kỹ thuật đối với quạt chống cháy nổ thì hệ thống thông gió xả khẩn cấp phải được lắp đặt các thiết bị phun theo ê-jec-tơ đối với các tòa nhà có bất kỳ số tầng nào. Đối với nhà một tầng có khí hoặc hơi dễ cháy có khối lượng riêng nhỏ hơn khối lượng riêng không khí lọt vào khi xảy ra sự cố, cho phép sử dụng thông gió cưỡng bức bằng cơ khí để đẩy khí và hơi qua các cửa nắp, giếng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 13
+  },
+  {
+    "id": "57df9ca0-405a-480f-bbc9-d3183ef042db",
+    "text": "3 Thông gió sự cố cho các gian phòng hạng C1 đến C4, D và E cần được thực hiện bằng cưỡng bức cơ khí; cho phép sử dụng thông gió sự cố bằng tự nhiên với điều kiện phải đảm bảo lượng không khí cần thiết ứng với các thông số không khí vào mùa nóng (theo thông số của nhiệt độ không khí cao nhất trung bình tháng quy định tại số liệu điều kiện tự nhiên dùng trong xây dựng [2])",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 13
+  },
+  {
+    "id": "c5660f56-966c-4051-8ece-c95d17620514",
+    "text": "4 Để thực hiện thông gió sự cố cho phép sử dụng: a) Hệ thống thông gió hút chung và các hệ thống hút cục bộ nếu chúng đáp ứng được lưu lượng thông gió sự cố;b) Các hệ thống nêu ở đoạn a) và hệ thống thông gió sự cố để bổ sung phần lưu lượng thiếu hụt;c) Chỉ dùng hệ thống thông gió sự cố nếu việc sử dụng các hệ thống nêu ở đoạn a) vào nhiệm vụ thông gió sự cố là không thể được hoặc không thích hợp.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 13
+  },
+  {
+    "id": "b7800e47-be47-46a7-bad3-7b5669199a0d",
+    "text": "5 Không cần phải bù không khí vào phòng bằng hệ thống thổi vào khi thực hiện thông gió sự cố cho bụi và khí độc hại nếu không có yêu cầu của công nghệ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 13
+  },
+  {
+    "id": "551f8bb5-ff2c-435c-b206-aa94af32f843",
+    "text": "",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 13
+  },
+  {
+    "id": "ec6694e4-3c5e-49d1-a837-a778eb2e4e79",
+    "text": "6 Hệ thống thông gió cho các khu vực phải bảo vệ chống nhiễm khói khi có cháy theo quy định về an toàn cháy cho nhà và công trình [6] phải đảm bảo các yêu cầu sau: a) Lưu lượng tính toán để tạo ra áp suất dư không nhỏ hơn 20 Pa và không lớn hơn 50 Pa. Giá trị áp suất dương được xác định so với các gian phòng lân cận phòng được bảo vệ;b) Lưu lượng không khí cấp vào các khoang đệm ngăn cháy trên lối vào các buồng thang bộ N2 hoặc N3, vào các cầu thang bộ loại 2, trên các lối vào sảnh thông tầng từ các tầng hầm và nửa hầm, trước sảnh thang máy của các ga ra ngầm, cần được tính toán đảm bảo điều kiện vận tốc dòng khí qua lỗ cửa mở không nhỏ hơn 1,3 m/s, có xét đến hoạt động đồng thời của hệ thống hút xả khói. Lưu lượng không khí cấp vào các khoang đệm ngăn cháy khác khi cửa đóng cần được tính toán có kể đến sự rò rỉ không khí qua các khe hở của cửa;c) Lưu lượng không khí cấp vào các hành lang chung của các gian phòng mà được hút khói trực tiếp, phải được tính toán đảm bảo cân bằng khối lượng với lưu lượng khói lớn nhất được hút ra từ một gian phòng có kể đến sự rò rỉ không khí qua các khe cửa đóng của tất cả các phòng (trừ một phòng có đám cháy). Đối với các sảnh thang máy của các tầng hầm và tầng nửa hầm, lưu lượng không khí cấp vào phải được tính toán có kể đến sự rò rỉ khí đi qua các cửa đóng của những sảnh này và giếng thang máy (trong trường hợp giếng thang không có áp suất dương);d) Không khí cung cấp phải được lấy trực tiếp từ bên ngoài với điểm lấy không khí không nhỏ hơn 5 m từ bất kỳ cửa xả hoặc lỗ thoát không khí thải nào để mở cho thông gió tự nhiên vào.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 13
+  },
+  {
+    "id": "b7218248-a38f-443f-b31b-5fde9897becd",
+    "text": "Thiết bị thông gió và điều hoà không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "ad349ba0-7f49-430e-8e92-1095d8d61d03",
+    "text": "1 Quạt thông gió, máy điều hòa không khí, buồng cấp gió, buồng xử lý không khí, thiết bị sấy nóng không khí,thiết bị tái sử dụng nhiệt dư, phin lọc bụi các loại, van điều chỉnh lưu lượng, bộ tiêu âm, v.v. (sau đây gọi chung là thiết bị) cần phải được tính toán lựa chọn theo nhu cầu sử dụng và tính đến tổn thất lưu lượng qua các khe hở của thiết bị (theo chỉ dẫn của nhà sản xuất), còn trong trường hợp ống dẫn không khí (ống gió) thì theo các chỉ dẫn nêu trong 6.11.9 (trừ các đoạn ống gió bố trí ngay trong các phòng mà hệ thống này phục vụ). Lượng gió rò rỉ qua khe hở của van ngăn cháy và van khói phải phù hợp với yêu cầu nêu trong 7.4.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "0048f919-108b-4332-beb0-a4268e356cd3",
+    "text": "2 Khi quạt không đấu nối với đường ống dẫn gió thì miệng hút và miệng thổi của nó phải có lưới bảo vệ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "5eb954dc-2c38-46f3-a334-e56ab6400ccc",
+    "text": "3 Thiết bị hồi nhiệt và tiêu âm phải được làm bằng vật liệu không cháy; riêng bề mặt bên trong của thiết bị hồi nhiệt có thể được làm bằng vật liệu khó cháy.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "d8f8fbab-a6f4-4e26-808f-6f466216f902",
+    "text": "4 Các thiết bị thông gió không được bố trí trong không gian/phòng mà thiết bị có nhiệm vụ phục vụ, trừ trường hợp thiết bị có lưu lượng gió dưới 10 000 m3/h và cấp gió cho màn gió hay màn gió sử dụng gió tuần hoàn.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "35784732-1043-4318-99f3-4239f3792f3e",
+    "text": "5 Thiết bị thuộc hệ thống thông gió cấp không khí và điều hoà không khí không được bố trí trong các phòng/không gian không được phép lấy không khí tuần hoàn.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "9bf93f7d-0dae-452a-aa16-ef10d3e5263c",
+    "text": "6 Thiết bị của các hệ thống thông gió cho các phòng thuộc hạng A và B cũng như thiết bị hệ thống hút thải cục bộ hỗn hợp khí nổ không được bố trí trong tầng hầm.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "17b34ddc-bf59-4dae-9835-39ef21822d3b",
+    "text": "7 Phin lọc bụi sơ cấp trên tuyến cấp gió phải được bố trí trước dàn lạnh khử ẩm; bộ lọc bổ sung (thứ cấp) bố trí trước điểm cấp gió vào phòng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "15177fe5-620a-48ea-89f5-0b914bda6cdb",
+    "text": "8 Thiết bị thông gió làm nhiệm vụ hút thải khí có mùi khó chịu (ví dụ: các hệ hút thải từ khu vệ sinh, từ phòng hút thuốc, v.v.) không được bố trí trong cùng gian phòng máy thông gió làm chức năng cấp gió cho các không gian khác.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "715aed53-4608-44b0-bf7e-8f66f7128f09",
+    "text": "9 Thiết bị thông gió hút thải khí tái sử dụng nhiệt bằng các thiết bị thông gió thu hồi nhiệt theo sơ đồ không khí - không khí, cũng như thiết bị tuần hoàn không khí phải được bố trí theo các yêu cầu nêu trong 6.9.8.Thiết bị tái sử dụng nhiệt không khí-không khí cần được bố trí trong gian thiết bị của hệ thống cấp gió.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "0d9ec374-074f-4aa3-bd16-001ccf257def",
+    "text": "Gian phòng máy thiết bị thông gió và điều hòa không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 14
+  },
+  {
+    "id": "e73d23b5-c6c6-4915-bacb-a8f37578b345",
+    "text": "1 Các gian phòng máy thiết bị thông gió của hệ thống hút thải chung và hệ thống hút thải cục bộ được xếp vào các hạng nguy hiểm cháy và cháy nổ [20] như sau: a) Xếp vào hạng của gian phòng mà chúng phục vụ - nếu trong các gian phòng máy có bố trí thiết bị của hệ thống thông gió chung cho gian phòng mà chúng phục vụ;b) Xếp vào hạng E - nếu trong các gian phòng máy có bố trí quạt, đường ống thổi và máy nén cấp không khí bên ngoài cho ê jec tơ nằm ngoài các gian phòng này;c) Xếp vào hạng của gian phòng mà từ đó lấy gió bằng quạt, ống thổi và máy nén để cấp cho các ê jec tơ;d) Xếp vào hạng A hoặc B - nếu trong các gian phòng máy có bố trí thiết bị của hệ thống hút thải cục bộ đẩy các hỗn hợp cháy nổ từ thiết bị công nghệ.Gian phòng có thiết bị của hệ thống hút thải phục vụ một vài gian phòng thuộc các hạng nguy hiểm cháy và cháy nổ khác nhau cần được xếp vào hạng nguy hiểm cao nhất trong số các hạng đó.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 15
+  },
+  {
+    "id": "9359d970-e12a-45f9-a05a-04304added0d",
+    "text": "2 Các gian phòng máy thiết bị thông gió của hệ thống cấp gió thổi được xếp vào các hạng nguy hiểm cháy và cháy nổ [20] như sau: a) Xếp vào hạng C1 - nếu trong các gian phòng máy có các bộ lọc bụi bằng dầu có lượng dầu lớn từ 75 L trở lên cho một đơn vị thiết bị;b) Xếp vào hạng C1, C2, C3, C4 hoặc D - nếu trong các gian phòng máy có hệ thống tuần hoàn gió lấy từ các gian phòng thuộc hạng C1, C2, C3, C4 hoặc D; ngoại trừ các trường hợp lấy gió từ các gian phòng không thải ra khí và bụi dễ cháy hoặc để làm sạch không khí khói bụi bằng thiết bị lọc bụi kiểu bọt hoặc ướt;c) Xếp vào hạng C1, C2, C3, C4 - nếu trong gian phòng máy có thiết bị xả khí phục vụ cho các gian phòng có các hạng C1, C2, C3 và C4 tương ứng;d) Xếp vào hạng D - nếu trong gian phòng máy có thiết bị sưởi dùng nhiên liệu dạng khí phục vụ các gian phòng được hệ thống thông gió phục vụ;e) Xếp vào hạng E - cho các trường hợp còn lại.Các gian phòng có thiết bị của hệ thống cấp tuần hoàn phục vụ một vài gian phòng thuộc các hạng nguy hiểm cháy và cháy nổ khác nhau thì được xếp vào hạng nguy nguy hiểm nhất trong số các hạng đó.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 15
+  },
+  {
+    "id": "53891d47-a9fd-4556-8ee7-e54f0537f8ff",
+    "text": "",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 15
+  },
+  {
+    "id": "af32cb4e-0015-4b26-bfde-150439a78bd7",
+    "text": "3 Gian phòng máy thiết bị thông gió cần được bố trí trực tiếp trong khoang cháy mà trong đó có các gian phòng cần phục vụ và (hoặc) gian phòng cần bảo vệ (là gian phòng mà ngay ở cửa ra vào có bố trí khoang đệm ngăn cháy hoặc được tạo áp suất không khí chênh lệch so với các gian phòng thông với chúng nhằm mục đích bảo vệ chống khói) [20].Đối với nhà có bậc chịu lửa I và II, các gian gian phòng máy cho phép được bố trí ngoài khoang cháy mà nó phục vụ hoặc khoang cháy được bảo vệ như sau: a) Bố trí trực tiếp ngay ngoài bộ phận ngăn cháy (tường ngăn cháy hoặc sàn ngăn cháy) tại biên của khoang cháy đó - khi có lắp đặt các văn ngăn cháy thường mở hoặc thường đóng trên các đường ống dẫn không khí của hệ thống thông gió chung hoặc hệ thống thông gió chống khói tương ứng, tại các vị các đường ống gió đi xuyên qua các bộ phận ngăn cháy;b) Bố trí cách xa biên của khoang cháy - khi có lắp đặt các văn ngăn cháy thường mở hoặc thường đóng trên các đường ống dẫn không khí của hệ thống thông gió chung hoặc hệ thống thông gió chống khói tương ứng, và các đoạn ống dẫn không khí (tính từ kết cấu xây dựng bao che các gian phòng máy thiết bị thông gió đến các vị trí đường ống đi xuyên qua bộ phận ngăn cháy) có giới hạn chịu lửa không nhỏ hơn giới hạn chịu lửa của bộ phận ngăn cháy này.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 15
+  },
+  {
+    "id": "5cf02f49-87f1-4536-b44b-8a60171e77b5",
+    "text": "4 Kết cấu xây dựng bao che các gian phòng máy thiết bị thông gió theo các đoạn a), b) của 6.10.3 cần được bảo đảm có giới hạn chịu lửa không nhỏ hơn giới hạn chịu lửa của bộ phận ngăn cháy mà khoang cháy được phục vụ. Trong các gian phòng này, cho phép lắp đặt thiết bị của hệ thống thông gió chung cấp hoặc thải phục vụ các gian phòng của các khoang cháy khác nhau.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 16
+  },
+  {
+    "id": "c0a985cf-92e0-4359-8ece-920a58252540",
+    "text": "5 Gian phòng máy có bộ lọc khô chuyên lọc hỗn hợp nguy hiểm nổ không được bố trí bên dưới các không gian tập trung đông người.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 16
+  },
+  {
+    "id": "468e9bf1-4688-4a1d-99eb-3fe06a954cac",
+    "text": "6 Chiều cao gian phòng máy thiết bị thông gió và điều hòa không khí cần phải cao hơn chiều cao thiết bị ít nhất 0,8 m và phải tính đến điều kiện thao tác của thiết bị nâng cẩu bên trong gian phòng máy nếu có, nhưng không được nhỏ hơn 1,8 m kể từ sàn nhà đến cốt thấp nhất của kết cấu mái hoặc sàn tầng trên.Trong không gian gian phòng máy thiết bị thông gió và điều hoà không khí cũng như trên sàn thao tác, chiều rộng lối đi lại giữa các phần cấu tạo của máy cũng như giữa máy móc thiết bị và kết cấu bao che không được nhỏ hơn 0,7 m, có tính đến nhu cầu lắp ráp, thi công và sửa chữa máy.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 16
+  },
+  {
+    "id": "ebca9273-d9e0-444e-8163-402be850b2cc",
+    "text": "7 Trong gian phòng máy có thiết bị hệ thống hút không khí thải, cần tổ chức thông gió hút với số lần trao đổi khí không dưới 1 lần/h.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 16
+  },
+  {
+    "id": "7f616d5c-a8a5-4079-aab7-d1205aec8982",
+    "text": "8 Trong gian phòng máy có thiết bị của hệ thống cấp gió (trừ hệ thống cấp gió tạo áp ngăn khói) cần phải tổ chức thông gió thổi vào với số lần trao đổi không khí không nhỏ hơn 2 lần/h, có thể dùng ngay hệ thống cấp gió này hoặc bố trí hệ thống cấp gió riêng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 16
+  },
+  {
+    "id": "ba3ca5b6-4937-4bc7-9be8-6acf6bd7b663",
+    "text": "9 Không được bố trí tuyến ống dẫn chất lỏng hay chất khí dễ cháy, dẫn khí đốt đi xuyên qua không gian của gian phòng máy thiết bị thông gió và điều hòa không khí.Không được phép bố trí ống nước thải đi xuyên qua gian phòng máy thiết bị thông gió, trừ ống thoát nước mưa hoặc ống thoát nước công nghệ từ những gian phòng đặt máy nằm bên trên.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 16
+  },
+  {
+    "id": "07467a0f-4d1e-4948-9d5b-85416cb77700",
+    "text": "10 Cần dự kiến thiết bị nâng cẩu riêng dùng cho mục đích sửa chữa thiết bị thông gió (quạt, động cơ, v.v.) nếu trọng lượng của một đơn vị cấu kiện hay một phần cấu kiện vượt quá 50 kg khi không có điều kiện sử dụng thiết bị nâng cẩu của dây chuyền công nghệ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 16
+  },
+  {
+    "id": "0e94b49e-d94f-4bc8-84c4-b5a2488cbeea",
+    "text": "Đường ống dẫn không khí (đường ống gió)",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 16
+  },
+  {
+    "id": "d37697ec-d811-420f-b4e2-ab9d0a027c7f",
+    "text": "1 Trên đường ống gió của hệ thống thông gió chung, hệ thống đường ống điều hoà không khí v.v. cần lắp đặt các bộ phận sau đây với mục đích ngăn cản sản phẩm cháy (khói) lan tỏa vào phòng khi có cháy: a) Van ngăn cháy; trên ống thu của mỗi tầng tại những điểm đấu nối vào ống góp đứng hay ống góp ngang trong công trình công cộng thuộc hạng nguy hiểm cháy D;b) Van khói: trên ống thu tại những điểm đấu nối vào ống góp đứng hay ống góp ngang đối với công trình thuộc hạng nguy hiểm cháy D. Mỗi ống góp ngang không được đấu quá 5 ống thu từng tầng lấy từ các tầng liền kề;c) Van ngăn cháy: tại những điểm ống gió đi xuyên qua qua bộ phận ngăn cháy.CHÚ THÍCH 1: Van ngăn cháy phải được đặt trên vách ngăn, trực tiếp sát vách ngăn ở bất kỳ phía nào của vách hoặc cách vách ngăn một đoạn, nhưng phải đảm bảo khả năng chịu lửa của đoạn ống gió kể từ vách ngăn đến van tương đương với khả năng chịu lửa của vách.CHÚ THÍCH 2: Cho phép đấu nối các ống gió của hệ thống thông gió hút không khí thải chung của công trình, trừ ống gió trong công trình điều trị-chữa bệnh.CHÚ THÍCH 3: Không được phép sử dụng ống góp đứng trong các công trình điều trị-chữa bệnh có nguy cơ lây nhiễm chéo.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 16
+  },
+  {
+    "id": "160ca15e-f4cf-473b-8564-fc2676d10ab6",
+    "text": "2 Cần đặt van một chiều trên đường ống gió để phòng tránh hiện tượng tràn khí độc hại từ phòng này qua phòng khác (khi hệ thống thông gió không hoạt động) trong trường hợp các phòng bố trí trên các tầng khác nhau và nếu lưu lượng gió ngoài cấp vào các phòng được tính toán theo điều kiện hòa loãng độc hại.Trên bộ phận ngăn cháy phân cách các phòng/không gian công cộng thuộc hạng nguy hiểm cháy D và E hoặc ngăn với hành lang, cho phép cấu tạo lỗ cửa cho không khí tràn qua với điều kiện lỗ cửa này được bảo vệ bằng van ngăn cháy.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 17
+  },
+  {
+    "id": "12e10fff-1c60-43af-839d-3938d9424ecb",
+    "text": "3 Đường ống gió nên được chế tạo và lắp đặt theo quy định trong TCVN 13580:2023 và TCVN 13581:2023.Đường ống gió có giới hạn chịu lửa bằng hoặc thấp hơn giới hạn chịu lửa của kết cấu công trình được phép dùng vào mục đích vận chuyển không khí không chứa hơi khí dễ ngưng tụ; trong trường hợp này cần đảm bảo cấp độ kín của đường ống, độ trơn nhẵn của bề mặt bên trong đường ống (trát, dán bằng vật liệu trơn nhẵn, v.v.) và đảm bảo khả năng làm vệ sinh ống gió.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 17
+  },
+  {
+    "id": "a8405155-bbfe-41b7-9729-5badac9c1f4e",
+    "text": "4 Đường ống gió bằng vật liệu không cháy phải được sử dụng cho: a) Các hệ thống hút cục bộ có nhiệm vụ hút thải hỗn hợp nguy hiểm cháy nổ, hệ thống thông gió sự cố, các hệ thống vận chuyển không khí có nhiệt độ trên 80 °C trên toàn bộ chiều dài tuyến ống;b) Các tuyến ống đi xuyên qua hoặc ống góp thuộc hệ thống thông gió và điều hoà không khí trong công trình;c) Các đường ống gió đi xuyên qua gian phòng máy đặt thiết bị thông gió, cũng như các tầng kỹ thuật tầng hầm và tầng sát mái.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 17
+  },
+  {
+    "id": "5b244bed-49cb-4773-a66d-100aafe51ca2",
+    "text": "5 Đường ống gió bằng vật liệu khó cháy được phép sử dụng trong công trình một tầng thuộc hạng nguy hiểm cháy E, trừ những hệ thống nêu tại đoạn a) của 6.11.4.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 17
+  },
+  {
+    "id": "a32cfe5b-f031-4de5-8dd6-6c8891a37dd1",
+    "text": "6 Đường ống gió bằng vật liệu cháy được phép sử dụng trong phạm vi của phòng/không gian mà hệ thống này phục vụ, trừ những trường hợp quy định trong 6.11.4. Có thể sử dụng ống mềm hoặc cút rẽ làm bằng vật liệu cháy trong các hệ thống phục vụ cho nhà hạng nguy hiểm cháy E, hoặc đi xuyên qua công trình hạng nguy hiểm cháy E,nếu chiều dài của chúng không vượt quá 10 % chiều dài ống gió làm bằng vật liệu khô cháy hoặc không quá 5 % đối với trường hợp ống gió làm bằng vật liệu không cháy. Ống mềm nối với quạt được phép làm bằng vật liệu cháy, trừ những hệ thống tại tại đoạn a) của 6.11.4.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 17
+  },
+  {
+    "id": "5fc98a71-429b-46a1-89bd-15920b0de4c6",
+    "text": "7 Khi không có yêu cầu về giới hạn chịu lửa, để chống gỉ cho ống gió cho phép sơn hay lớp màng phủ bằng vật liệu cháy có độ dày không lớn hơn 0,5 mm.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 17
+  },
+  {
+    "id": "9087e9e4-a973-4d46-8700-534560190772",
+    "text": "8 Cấp độ kín của đường ống gió được nêu trong Bảng 1.Bảng 1 - Cấp độ kín của đường ống gió Cấp độ kín Áp suất tĩnh, Pa Lượng không khí rò lọt cho phép,m3 · s-1 · m-2 dương âm A (áp suất thấp) ≤ 500 ≤ 500 0,027 · pt0,65 · 10-3 B (áp suất trung bình) ≤ 1000 ≤ 750 0,009 · pt0,65 · 10-3 C (áp suất cao) ≤ 2000 ≤ 750 0,003 · pt0,65 · 10-3 D (áp suất cao) ≤ 2000 ≤ 750 0,001 · pt0,65 · 10-3 CHÚ THÍCH 1: Cấp độ kín A áp dụng cho các loại thiết bị thông gió.CHÚ THÍCH 2: Cấp độ kín B áp dụng cho đường ống gió.CHÚ THÍCH 3: Cấp độ kín C áp dụng cho đường ống gió áp suất cao.CHÚ THÍCH 4: Cấp độ kín D áp dụng cho đường ống gió có mục đích đặc biệt, dành cho tiêu chuẩn vệ sinh và hiệu quả năng lượng cao hơn.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 17
+  },
+  {
+    "id": "e5b1462f-751b-4e8f-b63d-50ece52bde28",
+    "text": "9 Đường ống gió đi xuyên qua phòng và ống góp của hệ thống thông gió được phép: a) Làm bằng vật liệu cháy và khó cháy với điều kiện đặt ống trong kênh, trong hộp hay trong vỏ bọc riêng có giới hạn chịu lửa 30 min;b) Làm bằng vật liệu không cháy có giới hạn chịu lửa thấp hơn quy định, song không được dưới 15 min khi ống được đặt bên trong mương, giếng hay kết cấu bao che khác làm bằng vật liệu không cháy có giới hạn chịu lửa 30 min.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 18
+  },
+  {
+    "id": "e81f50e4-b581-4317-b125-5bff582c39c1",
+    "text": "10 Không quy định giới hạn chịu lửa của ống gió và ống góp đặt trong gian phòng máy đặt thiết bị thông gió hoặc đặt bên ngoài nhà.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 18
+  },
+  {
+    "id": "33bee382-61ff-406d-b81f-d61f6e70c1f1",
+    "text": "11 Ống gió đi xuyên qua các không gian đệm của các phòng thuộc các hạng nguy hiểm cháy A và B, cũng như các hệ thống hút cục bộ hút thải hỗn hợp khí gây nổ phải được cấu tạo với giới hạn chịu lửa theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 18
+  },
+  {
+    "id": "fd420946-3d92-4dcd-ab29-098e57521932",
+    "text": "12 Các đường ống của hệ thống hút khói, hệ thống cấp không khí chống khói và các van ngăn cháy trong các hệ thống này có giới hạn chịu lửa theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 18
+  },
+  {
+    "id": "0dcbe790-d6d5-4acd-bed9-157809f59e7d",
+    "text": "13 Không được đặt ống gió đi xuyên qua buồng thang (trừ trường hợp hệ thống cấp gió tăng áp ngăn khói).",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 18
+  },
+  {
+    "id": "99aeebc9-c5d9-480f-982e-994e8ad20018",
+    "text": "14 Lỗ chừa cho ống gió xuyên qua tường, vách hay sàn công trình (kể cả vách giếng và vỏ bao che hộp ống) phải được chèn bằng vật liệu không cháy và đảm bảo đủ giới hạn chịu lửa của tường ngăn mà ống đi xuyên qua.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 18
+  },
+  {
+    "id": "df766278-a0aa-4b3d-b890-a31dc93eb37b",
+    "text": "15 Ống gió của hệ thống hút cục bộ dẫn hỗn hợp khí nguy hiểm gây nổ, phần có áp suất dương, cũng như đoạn ống gió dẫn khí độc hại và các loại khí theo phân loại độc tính cấp tính nguy hại cho sức khỏe nêu trong Phụ lục J không được đặt xuyên qua các không gian khác. Các ống gió thuộc loại này được phép gia công bằng phương pháp hàn theo cấp độ kín D và không có cơ cấu tháo nối ống.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 18
+  },
+  {
+    "id": "ed2d4792-0640-46fc-afb0-d8b2c6b09750",
+    "text": "16 Không được phép lắp đặt ống dẫn khí đốt và các loại ống dẫn chất cháy, cáp điện, ống thoát nước thải, bên trong ống gió hay cách bề mặt ống 50 mm.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 18
+  },
+  {
+    "id": "e74b8c0a-8a6f-484c-9c38-f9c3a0f2de49",
+    "text": "17 Đường ống gió thuộc hệ thống hút chung, hệ thống hút cục bộ hút thải các hỗn hợp khí dễ cháy nổ nhẹ hơn không khí cần được cấu tạo có độ dốc không nhỏ hơn 0,5 % dốc lên theo chiều của dòng khí chuyển động.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 19
+  },
+  {
+    "id": "ba0b10b4-2bcf-40f2-aa05-18f22fe7467e",
+    "text": "18 Đường ống gió, mà trong đó có thể có hiện tượng lắng đọng hay ngưng tụ hơi ẩm hoặc bất kể chất lỏng loại nào, phải được cấu tạo với độ dốc không nhỏ hơn 0,5 % dốc xuôi theo chiều chuyển động của dòng khí, đồng thời cấu tạo ống xả chất lỏng ngưng tụ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 19
+  },
+  {
+    "id": "7742ff62-e6df-4caa-900f-4c9158d7d5d4",
+    "text": "19 Chênh lệch cân bằng tổn thất áp suất trên các nhánh ống gió không được vượt quá 10 %.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 19
+  },
+  {
+    "id": "232fe479-41d5-4f55-b742-19d1c65a38a2",
+    "text": "20 Các mối nối mềm ở cuối ống gió tới các thiết bị đầu cuối, các miệng hút và cấp không khí không được dài quá 2 m.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 19
+  },
+  {
+    "id": "245288ee-b395-4db3-a303-29728684ee93",
+    "text": "21 Các mối nối mềm, được sử dụng để ngăn chặn và/hoặc cho phép chuyển vị do nhiệt trong hệ thống đường ống, có chiều dài không quá 250 mm.7 Bảo vệ chống khói khi có cháy",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 19
+  },
+  {
+    "id": "caa2b7e6-7fcd-4290-b160-52a52ed6de3a",
+    "text": "Việc bảo vệ chống khói khi có cháy nhằm ngăn chặn và/hoặc hạn chế sự lan truyền khói và các sản phẩm cháy (sau đây gọi chung là khói) trong nhà, với mục đích: - Tạo điều kiện an toàn cho người thoát nạn và bảo vệ tài sản khi xảy ra cháy;- Tạo các điều kiện cần thiết cho lực lượng chữa cháy cứu người, phát hiện và khoanh vùng đám cháy trong nhà.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 19
+  },
+  {
+    "id": "0a04a95b-f968-4941-8442-52ce06444283",
+    "text": "Các khu vực phải bảo vệ chống khói theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 19
+  },
+  {
+    "id": "28b0c9a7-288f-4d1d-b99b-fdd015dd87ea",
+    "text": "Khối lượng khói, tính bằng kg/h, được thải ra từ hành lang, sảnh hay gian phòng được xác định căn cứ trên tính chất và bố trí các chất cháy trong khu vực có đám cháy dự kiến bằng các phương pháp tính toán khác nhau hoặc có thể tham khảo Phụ lục H.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 19
+  },
+  {
+    "id": "94b0e5d9-fc42-497d-845e-c14a59ecc59f",
+    "text": "Trên hệ thống hút thải khói cơ khí phải tính cả lượng khí rò lọt như sau: a) Lưu lượng khí rò lọt qua khe hở vào tuyến ống, mương, kênh dẫn khói, ống dẫn và các loại thiết bị thông gió lấy theo Bảng 1;b) Khối lượng khí rò lọt thêm, Gv, tính bằng kg/h, qua van khói ở trạng thái đóng phải được xác định theo chỉ dẫn của nhà sản xuất, nhưng không được vượt quá chỉ số theo công thức: Gv = 40,3 · (Av ΔP)0,5 · n (1) trong đó: Av là diện tích tiết diện van, tính bằng mét vuông (m2);ΔP là độ chênh áp suất hai phía van, tính bằng Pascan (Pa);n là số lượng van ở trạng thái đóng trong hệ thống thải khói khi cháy.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 19
+  },
+  {
+    "id": "f23c4688-8199-4077-a048-f5f9d8d9762c",
+    "text": "Cửa hút khói (miệng hút) cần phải bố trí trên giếng thải khói, dưới trần hành lang hay trần sảnh. Cho phép đấu nối cửa hút khói vào giếng thải khói qua một ống nhánh hút.Khối lượng khói thải trực tiếp từ phòng/không gian cần được xác định theo tính toán hoặc tham khảo khuyến nghị ở Phụ lục H: a) Theo chu vi đám cháy giai đoạn đầu G, kg/h;b) Theo yêu cầu bảo vệ các cửa thoát nạn khỏi bị khói tràn ra ngoài phạm vi của chúng G1, kg/h.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 19
+  },
+  {
+    "id": "48b33f3c-37bd-441d-bdc5-4ade75c23ccd",
+    "text": "Khi hút khói trực tiếp từ các gian phòng có diện tích lớn hơn 3 000 m2 thì phải ngăn chia gian phòng (bằng giải pháp bao che (sử dụng các bộ phận ngăn khói) hoặc giải pháp giả định) thành các vùng khói có diện tích không lớn hơn 3 000 m2 và phải tính đến khả năng xảy ra cháy ở một trong các vùng đó. Mỗi cửa thu khói chỉ được tính phục vụ cho một diện tích không quá 1 000 m2.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 20
+  },
+  {
+    "id": "79fe9b55-0275-4e14-8663-b978ab0a6a35",
+    "text": "Nên sử dụng giải pháp thoát khói tự nhiên để thải khói trực tiếp từ các gian phòng trong nhà một tầng qua các giếng thải khói có van khói hoặc qua các cửa trời thông gió không bị tạt gió (không đón gió).Trong phòng/không gian có chiều rộng không lớn hơn 15 m có các cửa thông gió tiếp xúc với bên ngoài, có thể thải khói qua các cửa thông gió có mép dưới của cửa cách sàn nhà không nhỏ hơn 2,2 m.Trong thư viện, kho chứa sách, lưu trữ, kho giấy cần sử dụng hệ hút thải tự nhiên, lấy theo số liệu tính toán trọng lượng riêng của khói, khi chưa đủ dữ liệu tính toán có thể lấy γ = 7 N/m2 và nhiệt độ khói bằng 220 °C.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 20
+  },
+  {
+    "id": "07841ebf-35d2-412e-81be-9e4ef393b18c",
+    "text": "",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 20
+  },
+  {
+    "id": "899097af-7c38-4381-9180-d42c4c10d885",
+    "text": "Hệ thống hút khói cần được trang bị: a) Quạt thải khói không nên nối với ống dẫn khói bằng ống nối mềm. Trường hợp phải dùng ống nối mềm thi ống nối mềm phải được làm bằng vật liệu không cháy;b) Ống dẫn, kênh dẫn và van ngăn cháy theo quy định về an toàn cháy cho nhà và công trình [6];c) Cửa thu khói cần được bố trí trên khu vực thải khói, hay trên bể khói. Diện tích do một cửa thu khói phục vụ không nên vượt quá 1 000 m2;d) Khói và sản phẩm cháy phải được xả ra bên ngoài nhà và công trình theo các phương án: - Xả lên trên mái nhà: phải đảm bảo khoảng cách tối thiểu 5 m từ vị trí xả khói đến cửa hút không khí của hệ thống cấp không khí chống khói. Chiều cao ống xả khói tối thiểu 2 m nếu làm từ vật liệu cháy, cho phép lấy chiều cao ống xả khói thấp hơn nếu mái được bảo vệ bằng vật liệu không cháy trong khoảng cách tối thiểu 2 m tính từ mép cửa xả khói hoặc không cần bảo vệ nếu sử dụng quạt hút dạng mái xả theo phương đứng;- Xả qua các cửa nắp hút khói, có xét đến vận tốc gió bên ngoài nhà;- Qua các ô thoáng, giếng xả khói nằm trên tường ngoài không có ô cửa hoặc cách các ô cửa không nhỏ hơn 5 m theo cả phương ngang và phương đứng và cách mặt đất hơn 2 m. Khoảng cách đến ô cửa có thể giảm xuống nếu bảo đảm vận tốc xả khói không nhỏ hơn 20 m/s;- Qua các giếng xả khói tách biệt nằm trên mặt đất ở khoảng cách không nhỏ hơn 15 m tính đến tường ngoài có cửa sổ (trong trường hợp các ô cửa sổ tường ngoài là cửa kín khói, luôn đóng hoặc tự động đóng khi có cháy thì không quy định khoảng cách tối thiểu), hoặc tính từ các miệng hút của hệ thống cấp không khí thông gió của các nhà lân cận hoặc của hệ thống cấp không khí chống khói của nhà đang xét;- Cho phép thay thế các phương án này bằng các giải pháp xả khói khác theo tài liệu chuẩn được phép áp dụng theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 20
+  },
+  {
+    "id": "02b93e4b-8bc8-47c7-9484-a7df629aa672",
+    "text": "Quạt thải khói cần được bố trí theo quy định về an toàn cháy cho nhà và công trình [6]. Quạt bố trí ngoài nhà (trừ quạt mái) phải có lưới bảo vệ ngăn cách người không phận sự.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 21
+  },
+  {
+    "id": "d5be6b29-30d0-43b0-b7d6-c6c07fb5f55b",
+    "text": "Sử dụng biện pháp hút thải cơ khí từ vùng dưới của phòng để thải khói, khí, sản phẩm cháy, v.v. sau vụ cháy từ những phòng được trang bị hệ thống chữa cháy bằng khí.Tại các điểm ống dẫn gió (trừ ống gió đi xuyên qua phòng) xuyên qua kết cấu bao che của phòng được trang bị hệ thống chữa cháy bằng khí, phải bố trí van ngăn cháy có giới hạn chịu lửa theo quy định [6].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 21
+  },
+  {
+    "id": "3d58a3c6-abb8-49d3-9db4-8dde50d1109f",
+    "text": "Khi có cháy, hệ thống cấp không khí chống khói phải cấp không khí từ ngoài vào các khu vực theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 21
+  },
+  {
+    "id": "bbc32bcf-650c-4416-8f66-099a7a308f40",
+    "text": "Lưu lượng không khí cấp vào của hệ thống cấp không khí chống khói phải được tính toán bảo đảm áp suất dư từ 20 Pa đến 50 Pa trong các khu vực theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 21
+  },
+  {
+    "id": "1022c2bc-40eb-4b21-8662-494d9145c4b0",
+    "text": "Số điểm phân phối gió không khí tạo áp suất dương để bảo vệ các buồng thang bộ và giếng thang máy nên đảm bảo trường áp suất đồng đều. Khoảng cách giữa các điểm cấp không khí tạo áp suất dương để bảo vệ các buồng thang bộ không nên vượt quá 2 tầng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 21
+  },
+  {
+    "id": "c20d84a7-2f20-448f-a9e7-d9ca40f6dcdb",
+    "text": "",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 21
+  },
+  {
+    "id": "3384d9af-0665-46fc-9f9a-683f8ec62faf",
+    "text": "Khi tính toán bảo vệ chống khói cần: a) Lấy nhiệt độ và vận tốc gió ngoài trời của mùa lạnh (nhiệt độ không khí thấp nhất trung bình tháng quy định tại số liệu điều kiện tự nhiên dùng trong xây dựng [2]). Nếu vận tốc gió ngoài trời vào mùa nóng cao hơn so với mùa lạnh thì cần phải kiểm tra lại tính toán theo thông số mùa nóng (nhiệt độ không khí cao nhất trung bình tháng quy định tại số liệu điều kiện tự nhiên dùng trong xây dựng [2]). Vận tốc gió vào mùa nóng hay mùa lạnh không nên lấy lớn hơn 5 m/s;b) Vị trí của cửa thoát hiểm đặt hướng về chiều tác động của gió lên mặt nhà;c) Nhận áp suất dư trong giếng thang máy, trong buồng thang bộ, cũng như trong khoang đệm trong mối tương quan so với áp suất gió trên mặt nhà ở hướng gió tới;d) Lấy áp suất tác động lên các cửa đóng kín trên đường thoát nạn không lớn hơn 150 Pa;e) Chỉ lấy diện tích của cánh cửa lớn đối với cửa có hai cánh;f) Cabin thang máy phải nằm tại tầng dưới, còn các cửa vào giếng thang tại tầng này phải mở;g) Vị trí của cửa thoát nạn đặt hướng về chiều tác động của gió lên mặt nhà;h) Nhận áp suất dư trong giếng thang máy, trong buồng thang bộ cũng như trong khoang đệm trong mối tương quan so với áp suất gió trên mặt nhà ở hướng gió tới;i) Lấy áp suất tác động lên các cửa đóng kín trên đường thoát nạn không lớn hơn 150 Pa;j) Chỉ lấy diện tích của cánh cửa lớn đối với cửa có hai cánh;k) Cabin thang máy phải nằm tại tầng dưới, còn các cửa vào giếng thang tại tầng này phải mở.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 21
+  },
+  {
+    "id": "18fbd015-7057-4ff4-9bac-a9f1ec8a431c",
+    "text": "Để bảo vệ hệ thống cấp không khí chống khói cần thực hiện các quy định sau: a) Hệ thống cấp gió tạo áp phải được khởi động tự động theo lệnh báo cháy;Ngoài ra, công tắc và đèn chỉ thị khởi động quạt phải được bố trí để nhân viên chữa cháy có thể cho quạt hoạt động từ trung tâm chỉ huy phòng chống cháy, trường hợp không có trung tâm này thì đặt tại bảng báo động cháy chính;b) Nên lắp đặt quạt ly tâm hay quạt trục trong một phòng riêng hoặc cách ly với các quạt dùng cho mục đích khác bởi vách ngăn cháy loại 1 (tương ứng với hạng nguy hiểm cháy nổ A). Cho phép đặt quạt trên mái nhà hay bên ngoài nhà, có rào bảo vệ ngăn những người không có trách nhiệm;c) Chế tạo ống dẫn gió bằng vật liệu không cháy có giới hạn chịu lửa từng khu vực theo quy định [6];d) Bố trí cửa lấy gió ngoài cách cửa xả khói không dưới 5 m.8 Cấp lạnh",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 21
+  },
+  {
+    "id": "4a2a51c6-e6c8-4ec0-b2ee-c02ecd0c4c7a",
+    "text": "Hệ thống cấp lạnh thường phải gồm hai hay nhiều tổ máy hoặc hệ máy lạnh; cũng có thể cấu tạo một máy lạnh hay một hệ thống làm lạnh với khả năng điều chỉnh được năng suất lạnh. Cần có một máy lạnh dự phòng đối với hệ thống điều hoà không khí cấp 1 hoạt động suốt ngày đêm.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 22
+  },
+  {
+    "id": "0dee87be-a11f-46e8-8fd6-df990e9b11a8",
+    "text": "Tổn thất lạnh trên thiết bị và trên đường ống của hệ thống cấp lạnh cần được xác định bằng tính toán (tính bảo ôn), nhưng không được vượt quá 10 % năng suất lạnh của hệ thống lạnh.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 22
+  },
+  {
+    "id": "65e492ed-081d-4cab-96a4-a4d345afd149",
+    "text": "Cụm trong nhà của máy điều hòa cục bộ, đa cụm và máy điều hòa không khí lưu lượng môi chất lạnh thay đổi được phép sử dụng: a) Nếu cụm trong nhà là đầu vào vòng tuần hoàn môi chất lạnh riêng biệt của một máy lạnh;b) Nếu lượng môi chất lạnh khi xả sự cố từ vòng tuần hoàn vào trong gian phòng có khối tích nhỏ nhất không vượt nồng độ cho phép quy định trong TCVN 6739:2015 (ISO 817:2014).Nếu dàn lạnh phục vụ cho một nhóm phòng, thì nồng độ môi chất lạnh q, tính bằng g/m3, trong bất kỳ phòng nào cần được xác định theo công thức: (2) trong đó: m là khối lượng môi chất lạnh trong vòng tuần hoàn lạnh, tính bằng gam (g);LN là lưu lượng không khí ngoài cấp vào gian phòng tính toán, tính bằng mét khối trên giờ (m3/h);Vp là thể tích gian phòng tính toán, tính bằng mét khối (m3);ΣLN là tổng lượng không khí cấp vào tất cả các phòng, tính bằng mét khối trên giờ (m3/h).",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 22
+  },
+  {
+    "id": "f8a9e4d1-f43f-4157-81ee-0e6cf8d6677f",
+    "text": "Để điều hòa công suất lạnh, nhằm nâng cao hệ số đầy tải và tận dụng điện năng giờ thấp điểm, hệ thống cấp lạnh cần được thiết kế với bể trữ lạnh.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 22
+  },
+  {
+    "id": "8bff66df-e7e2-4d2f-a994-34bb42ca9cfe",
+    "text": "Hệ thống máy lạnh kiểu máy nén có chứa lượng dầu (bôi trơn) lớn hơn 250 kg trong bất kỳ một máy nào đều không được phép bố trí bên trong nhà công cộng và nhà hành chính, nếu bên trên trần hay bên dưới sàn của phòng máy lạnh này có không gian là nơi thường xuyên hay tạm thời tập hợp đông người.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 22
+  },
+  {
+    "id": "6b11dc19-89c2-448a-9c4b-c31c38fb2f76",
+    "text": "Gian phòng máy đặt máy lạnh Br-Li và máy lạnh ê-jec-tơ hơi nước hoặc máy lạnh có chế độ bơm nhiệt phải được xếp vào hạng nguy hiểm cháy nổ E, còn máy lạnh dùng amoniac - xếp vào hạng B. Dầu máy lạnh phải được lưu giữ trong một gian riêng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 23
+  },
+  {
+    "id": "26c4d61a-ef51-4f5a-a5b3-014c6c903bab",
+    "text": "Miệng xả môi chất lạnh từ van an toàn phải được đưa vượt trên cửa sổ, cửa đi và các cửa lấy gió không dưới 2 m, và không dưới 5 m cách mặt đất. Luồng xả phải được hướng thẳng lên trời. Miệng xả môi chất lạnh amoniac phải được đưa lên độ cao không dưới 3 m cao hơn mái nhà.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 23
+  },
+  {
+    "id": "b1c7c288-ee05-42ce-b03a-0a60f5978e95",
+    "text": "Gian phòng máy đặt máy lạnh phải được tổ chức thông gió chung để khử nhiệt thừa bằng hệ thống hút cơ khí được thiết kế đủ khả năng: a) Thải lượng gió với số lần trao đổi không khí bằng 3, còn khi có sự cố phải đảm bảo được số lần trao đổi không khí bằng 5 đối với các loại môi chất lạnh được phân loại theo tính độc hại là cấp B (khả năng cháy cao) theo TCVN 6739:2015 (ISO 817:2014).b) Thải lượng gió với số lần trao đổi không khí bằng 4, khi có sự cố - số lần trao đổi không khí bằng 11 đối với môi chất lạnh amoniac.9 Sử dụng nguồn nhiệt thải",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 23
+  },
+  {
+    "id": "971f7f79-048e-4b4c-a9aa-b33b0570c1a9",
+    "text": "Các hệ thống thông gió và điều hoà không khí nên thiết kế với khả năng tận dụng nguồn năng lượng nhiệt thải: a) Được thu hồi từ không khí thải ra ngoài của các hệ thống thông gió chung và các hệ thống thông gió hút cục bộ;b) Được thu hồi từ các thiết bị công nghệ dưới dạng năng lượng lạnh và nhiệt có khả năng sử dụng vào mục đích thông gió và điều hoà không khí.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 23
+  },
+  {
+    "id": "8f41d536-191b-4b95-947d-edbe92b12212",
+    "text": "Cần tính đến độ ổn định của nguồn nhiệt thải cũng như của nhu cầu sử dụng nguồn nhiệt này trong hệ thống kỹ thuật khi lựa chọn sơ đồ sử dụng nhiệt (lạnh), chọn thiết bị sử dụng nhiệt và bơm nhiệt, v.v.Khi có giá trị kinh tế như nhau của các giải pháp thiết kế (trong phạm vi ± 5 % theo chi phí thu hồi) thì nên chọn giải pháp nào mang lại hiệu quả tiết kiệm nhiên liệu cao hơn.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 23
+  },
+  {
+    "id": "bad1055e-cb6f-4a6d-81c3-9f521ce2ebe1",
+    "text": "Nồng độ các chất độc hại trong không khí khi sử dụng nhiệt thải không được vượt quá giá trị giới hạn tiếp xúc cho phép của 50 yếu tố hóa học tại các phòng/không gian trong công trình công nghiệp sử dụng làm văn phòng, chỗ nghỉ ngơi [3].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 23
+  },
+  {
+    "id": "9ee046ac-b6cf-4aac-ae43-c2202ebd2547",
+    "text": "Trong các thiết bị thông gió thu hồi nhiệt theo sơ đồ không khí - không khí và khí - không khí, tại những điểm đấu nối đường ống không khí cần phải đảm bảo sao cho áp suất của không khí cấp vào công trình cao hơn áp suất của khí hay không khí thải ra. Mức chênh áp suất tối đa không được vượt giá trị cho phép theo tài liệu kỹ thuật của thiết bị tái sử dụng nhiệt.Trong các thiết bị thông gió thu hồi nhiệt kiểu không khí-không khí hay khí-không khí cần tính đến khả năng lan truyền chất độc hại do đặc điểm kỹ thuật của thiết bị.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 23
+  },
+  {
+    "id": "8c386df6-5699-49b9-9ea4-ef442955121f",
+    "text": "Thiết bị thông gió thu hồi nhiệt theo sơ đồ không khí-không khí (cũng như các thiết bị thông gió thu hồi nhiệt trên nguyên tắc ống nhiệt) không được sử dụng vào mục đích làm nóng (làm lạnh) không khí cấp vào nhà, nếu tận dụng năng lượng của: a) Không khí lấy từ các hệ thống hút cục bộ hút thải hỗn hợp nổ hoặc hỗn hợp có chất độc hại. Cho phép sử dụng không khí lấy từ hệ thống hút cục bộ hỗn hợp có bụi không gây nổ, sau khi đã lọc bụi;b) Không khí có chứa chất lắng đọng hay chất ngưng tụ bám vào bề mặt trao đổi nhiệt thuộc chất độc theo phân loại độc tính cấp tính nguy hại cho sức khỏe trong Phụ lục J, hoặc có mùi khó chịu dùng trong thiết bị thông gió thu hồi nhiệt theo sơ đồ tái hấp thụ nhiệt, hay trong thiết bị tái sử dụng nhiệt trên nguyên lý ống nhiệt;c) Không khí có chứa virus, vi khuẩn gây bệnh, các dạng nấm ở mật độ nguy hiểm theo quy định của Tổ chức kiểm tra vệ sinh dịch tễ có thẩm quyền.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 23
+  },
+  {
+    "id": "a0bf452e-1bf5-495d-aafc-8c0edf39c663",
+    "text": "Trong các thiết bị thông gió thu hồi nhiệt có thể được phép sử dụng nhiệt thải của các chất khí, dung dịch độc hại, hay nguy hiểm, để làm nóng (làm lạnh) không khí cấp vào nhà với vai trò chất mang nhiệt trung gian bên trong tuyến ống hay giàn trao đổi nhiệt kín, một khi có thỏa thuận của các cơ quan giám sát; nếu không có thỏa thuận này thì cần sử dụng sơ đồ vòng tuần hoàn nhiệt bổ sung với chất mang nhiệt không chứa chất độc hại cấp B (TCVN 6739:2015) cũng phải dùng sơ đồ này khi nồng độ chất độc hại nêu trên đây có khả năng vượt nồng độ cho phép trong trường hợp xả sự cố vào trong nhà.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 24
+  },
+  {
+    "id": "e00c7e86-3300-4f75-9084-9357d62aaa75",
+    "text": "Khi sử dụng nhiệt từ hệ thống thông gió có chứa bụi hay son khí lắng đọng, cần tổ chức lọc không khí để đạt được nồng độ bụi cho phép theo tiêu chuẩn kỹ thuật đối với thiết bị thông gió thu hồi nhiệt, đồng thời cũng phải có biện pháp làm vệ sinh thường kỳ bề mặt trao đổi nhiệt.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 24
+  },
+  {
+    "id": "fd028a91-4dfc-439d-ba1d-63b71be9f780",
+    "text": "Trong các hệ thống sử dụng năng lượng thứ cấp cần tính đến những biện pháp ngăn ngừa đóng băng của chất tải nhiệt thứ cấp hoặc loại trừ hiện tượng tạo băng trên bề mặt của thiết bị tái sử dụng nhiệt.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 24
+  },
+  {
+    "id": "b0c012e9-5b1e-4ccf-8b63-81229455cfe4",
+    "text": "Có thể sử dụng hệ thống cấp nhiệt (lạnh) dự phòng đi kèm với hệ thống thông gió thu hồi nhiệt.10 Kiểm soát quản lý năng lượng",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 24
+  },
+  {
+    "id": "d191307d-623d-4c49-90b9-f310a38f61b1",
+    "text": "Thiết kế của hệ thống điều khiển phải cho phép hoạt động sử dụng năng lượng hiệu quả mà vẫn duy trì các điều kiện trong nhà mong muốn.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 24
+  },
+  {
+    "id": "92912a9a-c1a8-408d-8422-2ad51daa850a",
+    "text": "Khi hệ thống điều hòa không khí phục vụ các khu vực có yêu cầu làm mát khác nhau thì phải phân chia đủ các vùng có các chế độ làm mát khác nhau.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 24
+  },
+  {
+    "id": "514b7992-a6ca-4fba-8694-ef01889e5f09",
+    "text": "Phải có ít nhất một bộ điều chỉnh nhiệt độ có dải hoạt động phù hợp cho mỗi hệ thống và vùng xử lý không khí riêng cho việc điều chỉnh nhiệt độ cho các khu vực. Kiểm soát nhiệt độ phòng nên đạt trong giới hạn ± 1 °C với thực tế. Nên sử dụng van kiểm soát điều tiết có khả năng điều tiết và cơ cấu điều tiết tốt. Cảm biến nhiệt độ không khí phải có độ chính xác thích hợp để kiểm soát hiệu quả nhiệt độ các khu vực.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 24
+  },
+  {
+    "id": "10a55bc5-bdcb-4353-ae69-7be36eba72a5",
+    "text": "Có giải pháp để hạn chế một phần hay tắt toàn bộ việc làm mát cho từng vùng bằng thủ công hay tự động.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 24
+  },
+  {
+    "id": "f38e593a-9e74-40f2-8e5e-c7c72908cf0a",
+    "text": "Hệ thống điều hòa không khí phải được trang bị ít nhất một trong những thiết bị sau để có thể tắt tự động: a) Các điều khiển có thể khởi động và dừng hệ thống theo các lịch biểu khác nhau cho bảy ngày khác nhau trong tuần với chức năng ghi đè thủ công hoặc chức năng tương đương mà cho phép hệ thống hoạt động tạm thời tới 2 h.b) Cảm biến có người có khả năng tắt hệ thống khi không có người ở trong khoảng thời gian lên tới 30 min.c) Khóa liên động đến hệ thống an ninh làm tắt hệ thống điều hòa không khí khi hệ thống an ninh được kích hoạt.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 24
+  },
+  {
+    "id": "c38f5c9f-2146-4887-b852-5e62be30db35",
+    "text": "Các hệ thống sau không yêu cầu tắt tự động quy định trong 10.5: a) Hệ thống phục vụ phòng khách của khách sạn;b) Hệ thống dự kiến hoạt động liên tục;c) Hệ thống có năng suất làm mát nhỏ hơn 4,4 kW và có bộ điều khiển bật/tắt bằng tay ở nơi dễ tiếp cận.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 24
+  },
+  {
+    "id": "f6178b39-f682-437c-b828-4d9a0155827b",
+    "text": "Bộ xử lý không khí với lưu lượng từ 5 m3/s không khí trở lên nên có điều khiển khởi động tối ưu. Thuật toán điều khiển ít nhất phải tính đến sự chênh lệch giữa nhiệt độ của không gian và điểm đặt của nó và khoảng thời gian trước khi có người ở theo lịch biểu.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "c6234479-f3fa-4917-abc7-a355309b0512",
+    "text": "Các không gian trong công trình dự định hoạt động hoặc có người không đồng thời nên được nhóm lại thành các khu vực riêng, với mỗi khu vực không nên quá 2 300 m2 diện tích sàn hoặc tầng với điều kiện: a) Hệ thống thông gió và điều hòa không khí trung tâm phục vụ các khu vực này được trang bị các bộ điều khiển và thiết bị cho phép hệ thống và thiết bị hoạt động ổn định bất kỳ lúc nào trong khi chỉ phục vụ khu vực riêng nhỏ nhất;b) Các hệ thống phục vụ từng khu vực riêng, ngoài việc đáp ứng các yêu cầu 10.5 về tự động tắt, còn được trang bị các thiết bị cách ly và điều khiển để có thể cách ly chúng khỏi nguồn cung cấp không khí ngoài và hệ thống hút không khí thải ra.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "5ff731c2-b663-403e-8b17-d3dd3ad49bef",
+    "text": "Những điểm sau đây không yêu cầu đối thiết bị cách ly và điều khiển quy định tai 10.8 b): a) Không khí thải và không khí ngoài kết nối với các khu vực riêng khi hệ thống quạt, mà chúng được kết nối với nhau có lưu lượng nhỏ hơn và bằng 2,4 m3/s;b) Lưu lượng không khí thải từ một khu vực riêng nhỏ hơn 10 % lưu lượng theo thiết kế của hệ thống thoát không khí thải mà chúng kết nối với nhau;c) Khu vực dự định hoạt động liên tục hoặc chỉ dự định hoạt động khi tất cả các khu vực khác không hoạt động.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "3e534a29-7062-4385-b1a9-43a38308c92b",
+    "text": "Các van được sử dụng trong tất cả các hệ thống cấp không khí và thoát không khí thải phục vụ các không gian có điều hòa không khí phải tự động tắt khi các không gian không được sử dụng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "0c0507de-2b5f-4f91-9232-801e960f7e4b",
+    "text": "Các van không khí có lượng gió rò rỉ tối đa là 100 L/(s·m2) trên toàn bộ diện tích của van ở 250 Pa.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "f8c4bb36-0e9e-4f0a-afee-a53d48d21ecc",
+    "text": "Quạt (đối với động cơ lớn hơn 0,5 kW) được sử dụng trong hệ thống phải có bộ điều khiển tự động để tắt khi không sử dụng [7].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "507a243e-7fdb-4eb8-8d79-126413300778",
+    "text": "Các hệ thống cấp gió ngoài (thiết kế lượng gió ngoài lớn hơn 1,4 m2/s phục vụ các khu vực có mật độ người trung bình quá 1 người/m2) phải có các phương tiện tự động giảm lượng gió bên ngoài xuống dưới mức thiết kế, khi không gian chỉ một phần có người.11 Cấp thoát nước cho hệ thống thông gió và điều hòa không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "240eeffe-205f-4f20-b140-478e6dadfea0",
+    "text": "Nước cấp cho tháp giải nhiệt, buồng phun, giàn phun ẩm, phun ẩm bổ sung cùng các thiết bị xử lý không khí khác phải là nước có chất lượng theo tiêu chuẩn nước ăn uống.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "441286dc-ffbd-40c4-a324-0606eaa7a517",
+    "text": "Nước tuần hoàn trong buồng phun, tháp giải nhiệt phải được lọc sạch, khi có yêu cầu vệ sinh cao hơn thì còn cần phải tiến hành thêm lọc vi khuẩn.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "c200d998-7e40-4a00-85e2-919f55a0f295",
+    "text": "Cần phải cấu tạo đường ống xả nước vào hệ thống thoát nước để xả nước từ thiết bị xử lý không khí và để thoát nước ngưng.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "5147b316-4683-4f8c-90ab-a7762f4d8369",
+    "text": "Chất lượng nước (độ cứng, độ pH, hàm lượng cặn, v.v.) dùng vào mục đích làm nguội thiết bị lạnh cần được đảm bảo theo điều kiện kỹ thuật cho máy lạnh.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 25
+  },
+  {
+    "id": "62bc01fb-5ecc-4346-ba24-267df33b796b",
+    "text": "Nhiệt độ nước làm mát tháp giải nhiệt, bình ngưng của máy sản xuất nước lạnh và các máy điều hòa tổ hợp gọn không vượt quá 33 °C.12 Cấp điện và tự động hóa cho hệ thống thông gió và điều hòa không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 26
+  },
+  {
+    "id": "4c255725-6d58-46f3-a467-1101df0c652c",
+    "text": "Nguồn điện cấp cho các hệ thống thông gió và điều hoà không khí phải được xếp loại ngang cấp với hệ thống cấp điện cho mạng công nghệ và mạng kỹ thuật của công trình.Nguồn điện cấp cho thông gió sự cố và cấp cho hệ bảo vệ chống khói phải được cấp từ 2 nguồn độc lập theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 26
+  },
+  {
+    "id": "a945cc44-1b27-4924-91bb-875a991420ed",
+    "text": "Trong các nhà và công trình có hệ thống bảo vệ chống khói, nên trang bị hệ thống tín hiệu báo cháy tự động.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 26
+  },
+  {
+    "id": "f8718afe-443f-4470-a1d1-289c4969d810",
+    "text": "",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 26
+  },
+  {
+    "id": "898c8f2d-efcb-49d1-8608-99a8b513e708",
+    "text": "Đối với các công trình và các nhà có trang bị hệ thống chữa cháy tự động hay hệ thống tín hiệu báo cháy tự động, thì nhất thiết phải thiết kế hệ khóa liên động (trừ nguồn cấp điện cho thiết bị đấu nối vào mạng chiếu sáng một pha) cho các hệ thống thông gió và điều hoà không khí cũng như các hệ thống bảo vệ chống khói với các hệ thống này nhằm mục đích: a) Cắt nguồn điện cấp cho các hệ thống thông gió và điều hoà không khí khi xảy ra cháy, trừ hệ thống cấp gió vào khoang đệm của các phòng sản xuất thuộc hạng nguy hiểm cháy nổ cấp A và B;b) Khởi động hệ thống cấp gió sự cố chống khói: Các van khói và van ngăn cháy, cửa thông gió, các cơ cấu đóng mở trên giếng thoát khói, đóng mở cửa thông gió, cửa sổ v.v. có vai trò bảo vệ chống khói phải có cơ cấu điều khiển tự động, điều khiển từ xa và điều khiển bằng tay (ngay tại vị trí bố trí thiết bị) theo quy định về an toàn cháy cho nhà và công trình [6].CHÚ THÍCH 1: Nhu cầu cắt toàn bộ hay một phần các hệ thống thông gió và điều hoà không khí phải được xác định theo yêu cầu công nghệ.CHÚ THÍCH 2: Đối với các phòng chỉ có hệ thống tín hiệu báo cháy do người điều khiển thì cần trang bị thiết bị điều khiển từ xa để dừng các hệ thống thông gió và điều hoà không khí phục vụ cho các không gian này, đồng thời khởi động hệ cấp gió bảo vệ chống khói.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 26
+  },
+  {
+    "id": "335e9219-90a1-448b-b1c1-b0a1b77b386e",
+    "text": "Những phòng có hệ thống tín hiệu báo cháy tự động phải được trang bị hệ điều khiển ngắt mạch từ xa và được bố trí bên ngoài các phòng do hệ thống này phục vụ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 26
+  },
+  {
+    "id": "eca09eaf-f6f0-44ae-976a-cf61d9fa0250",
+    "text": "Thiết bị, đường ống bằng kim loại và ống gió của hệ thống thông gió và điều hoà không khí và các hệ thống hút cục bộ thải hỗn hợp nguy hiểm nổ, phải được nối đất theo quy định.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 26
+  },
+  {
+    "id": "691515c5-56ec-4f3a-b600-f4faf105d328",
+    "text": "Các thông số của chất tải nhiệt (lạnh) và của không khí phải được khống chế trong các hệ thống sau: a) Mạng cấp nhiệt nội bộ: nhiệt độ và áp suất chất mang nhiệt trên tuyến ống cấp và ống hồi tại gian phòng máy đặt thiết bị thông gió; nhiệt độ và áp suất trên đầu ra của thiết bị trao đổi nhiệt;b) Sưởi bằng không khí nóng và thông gió cấp vào nhà: nhiệt độ không khí cấp và nhiệt độ không khí trong các phòng chuẩn (theo yêu cầu của công nghệ);c) Hoa sen không khí: nhiệt độ không khí cấp vào;d) Điều hoà không khí: nhiệt độ của không khí ngoài nhà, không khí tuần hoàn, không khí cấp vào nhà, sau buồng phun hay sau giàn làm lạnh, không khí trong phòng, độ ẩm tương đối của không khí (trong trường hợp thông số này cần được khống chế);e) Cấp lạnh: nhiệt độ môi chất lạnh trước và sau mỗi một thiết bị trao đổi nhiệt hoặc cơ cấu hòa trộn chất tải lạnh, áp suất của chất tải lạnh trong tuyến ống chung;f) Thông gió và điều hoà không khí bao gồm cả bộ lọc phòng áp suất tĩnh, thiết bị hồi nhiệt: áp suất và độ chênh lệch áp (theo yêu cầu công nghệ hay yêu cầu về thiết bị cũng như yêu cầu của vận hành).",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 26
+  },
+  {
+    "id": "88d1f832-b316-4c48-8144-84933cc7424c",
+    "text": "Dụng cụ kiểm tra đo đạc từ xa cần được sử dụng để đo các thông số chủ yếu; các thông số còn lại nên đo đạc bằng các dụng cụ đo lường tại chỗ (dụng cụ lắp tại chỗ hay dụng cụ cầm tay).Khi có nhiều hệ thống cùng được đặt trong một gian phòng máy thì nên bố trí một dụng cụ đo nhiệt độ và đo áp suất trên ống cấp nhiệt (lạnh) chung và tại các điểm đo riêng rẽ trên các đầu ra của những hộ tiêu thụ nhiệt.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 27
+  },
+  {
+    "id": "794eb24f-24ab-4072-a855-33f457361ce4",
+    "text": "Việc đo đạc, kiểm tra và điều khiển từ xa các thông số chính trong hệ thống thông gió và điều hoà không khí phải được thực hiện theo yêu cầu công nghệ.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 27
+  },
+  {
+    "id": "7866c185-be4e-4602-b321-1681069560ad",
+    "text": "Hệ điều khiển tự động các thông số cần phải thực hiện đối với: a) Hệ thống thông gió thổi vào và hút ra hoạt động với lưu lượng biến đổi hay với tỷ lệ hòa trộn giữa không khí ngoài nhà và không khí tuần hoàn biến đổi;b) Hệ thống thông gió thổi vào (nếu có đủ luận cứ);c) Hệ thống điều hoà không khí;d) Hệ thống cấp lạnh.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 27
+  },
+  {
+    "id": "b8ab23b8-b494-4c59-8299-ea3a6029ec53",
+    "text": "Đầu đo thông số môi trường nên đặt tại những điểm mang tính đặc trưng của phòng hay của vùng làm việc, ở nơi mà đầu đo không chịu ảnh hưởng của những bề mặt nóng hay lạnh hoặc các dòng khí lưu thông. Có thể bố trí đầu đo trong ống dẫn gió tuần hoàn hay gió thải, nếu thông số không khí trong đó không sai lệch so với thông số không khí trong phòng hoặc sai lệch với một đại lượng không đổi.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 27
+  },
+  {
+    "id": "350aa84f-6d1d-448c-abe0-bf94b8867780",
+    "text": "Hệ khóa liên động tự động cần bố trí để: a) Đóng hay mở van không khí bên ngoài khi tắt hay khởi động quạt;b) Đóng hay mở các van của hệ thống thông gió có liên kết với nhau bằng đường ống dẫn gió để thay thế một phần của hệ thống khi phần khác gặp sự cố kỹ thuật;c) Đóng các van trên đường ống dẫn gió cho các phòng được trang bị hệ thống cứu hỏa bằng khí sau khi hệ thống thông gió của các phòng này được tắt;d) Khởi động thiết bị dự phòng khi thiết bị chính gặp sự cố;e) Mở và đóng nguồn cấp chất tải lạnh (nhiệt) khi khởi động hay tắt các thiết bị xử lý không khí;f) Khởi động hệ thống thông gió sự cố khi trong vùng làm việc xuất hiện chất độc hại với nồng độ vượt nồng độ cho phép, hoặc khi nồng độ chất cháy trong không gian vượt quá 10 % giới hạn dưới phát lửa của hỗn hợp ga, bụi và khí.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 27
+  },
+  {
+    "id": "e482ab7d-f583-412a-b4ac-e5649453d2d7",
+    "text": "Hệ khóa liên động tự động của quạt gió thuộc các hệ thống thông gió hút thải cục bộ và hút thải chung, nếu không lắp quạt dự phòng, việc đấu nối với thiết bị công nghệ phải đảm bảo dừng thiết bị khi quạt bị sự cố ngừng hoạt động, còn nếu không dừng được thiết bị công nghệ thì phải phát tín hiệu báo động.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 27
+  },
+  {
+    "id": "f77c075f-93d2-4248-832c-7eb624636b12",
+    "text": "Đối với các hệ thống có lưu lượng hòa trộn gió ngoài và gió tuần hoàn biến đổi cần lắp khóa liên động nhằm đảm bảo luôn luôn có lưu lượng gió ngoài tối thiểu.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 28
+  },
+  {
+    "id": "34a7404a-d814-4d3f-9d06-488b4be2df45",
+    "text": "Đối với hệ thống thông gió hút có lọc bụi qua các bộ lọc ướt cần bố trí hệ liên động giữa quạt với hệ thống cấp nước cho bộ lọc ướt để đảm bảo: a) Khởi động hệ cấp nước khi quạt chạy;b) Dừng quạt khi ngừng cấp nước hoặc khi mực nước trong bộ lọc bị sụt;c) Không thể khởi động được quạt khi không có nước hoặc khi mức nước trong bộ lọc thấp hơn mức nước quy định.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 28
+  },
+  {
+    "id": "a5c8f59c-c2a3-4c3a-89a4-2cf61d9852b7",
+    "text": "Việc khởi động màn gió phải liên động với việc đóng mở cổng, cửa ra vào hoặc lỗ cửa của dây chuyền công nghệ, Việc ngắt màn gió cũng phải được thực hiện liên động khi đóng cổng, đóng cửa hay đóng lỗ cửa của dây chuyền công nghệ và khi chế độ nhiệt bên trong công trình được phục hồi.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 28
+  },
+  {
+    "id": "44b94bdb-778b-40c5-8cbb-7d41abf9531e",
+    "text": "Quản lý các hệ thống thông gió và điều hoà không khí trong nhà ở, công trình dân dụng và trong công trình công nghiệp phải được tổ chức đồng thời với hệ thống quản lý toàn nhà và công trình, trong đó có hệ thống quản lý các quá trình công nghệ hay thiết bị kỹ thuật.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 28
+  },
+  {
+    "id": "c7cc0d6d-25de-49f5-a12b-722272b84309",
+    "text": "Độ chính xác duy trì điều kiện vi khí hậu bên trong công trình có điều hoà không khí (khi không có những yêu cầu đặc biệt) nên đảm bảo yêu cầu như sau: a) Đối với cấp điều hoà không khí I và II: lấy bằng ± 1 °C và ± 7 % độ ẩm tương đối;b) Đối với điều hoà không khí cục bộ hoặc các giàn điều hòa vi chỉnh bổ sung có đầu cảm biến riêng: lấy bằng ± 2 °C.Phụ lục A (tham khảo) Các thông số không khí bên trong nhà đảm bảo điều kiện tiện nghi nhiệt Bảng A.1 - Các thông số hợp lý của không khí bên trong nhà trong phạm vi không gian hoạt động của nhà ở Các phòng trong nhà ở Nhiệt độ không khí, °C Vận tốc chuyển động của không khí, m/s Độ ẩm tương đối, % Tiện nghi Giới hạn cho phép Tiện nghi Tối đa cho phép A. MÙA LẠNH Phòng có sưởi ấm",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": null,
+    "page": 28
+  },
+  {
+    "id": "e429d818-eb89-40ba-8b4a-418e6c47f289",
+    "text": "",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "Cà Mau 0,4 99,6 0,996 34,2 27,7 25,9 21,5 20,0 20,3 1,0 99,0 0,990 33,6 27,3 25,8 22,2 20,6 21,1 1,5 98,5 0,985 33,3 27,1 25,9 22,5 21,0 21,4 2,0 98,0 0,980 33,0 27,0 25,7 22,7 21,2 21,6 2,5 97,5 0,975 32,8 26,9 25,7 22,9 21,4 21,8 3,0 97,0 0,970 32,6 26,9 25,9 23,1 21,5 21,9 3,5 96,5 0,965 32,4 26,8 25,8 23,2 21,7 22,0 4,0 96,0 0,960 32,3 26,7 25,7 23,3 21,8 22,2 4,5 95,5 0,955 32,1 26,7 25,7 23,5 21,9 22,4 5,0 95,0 0,950 32,0 26,6 25,7 23,6 22,0 22,4 CHÚ THÍCH 1: Trong Bảng C.1 hiện chỉ có số liệu cho 15 địa phương đại diện cho tất cả 7 vùng khí hậu. Các số liệu cho các địa phương khác sẽ được cập nhật bổ sung. Đối với các địa phương chưa có trong Bảng C.1 tạm thời có thể tham khảo số liệu cho ở địa phương lân cận; có thể nội suy theo khoảng cách giữa hai địa phương nằm liền kề hai bên hoặc chọn theo vùng khí hậu nêu trong [2].CHÚ THÍCH 2: Thông số không khí bên ngoài cho điều hoà không khí chọn theo tần suất tích lũy xuất hiện hàng năm của nhiệt độ khô và nhiệt độ ướt theo [17].CHÚ THÍCH 3: Trị số nhiệt độ chọn theo tần suất tích lũy xuất hiện hàng năm Pc là trị số mà số lần hoặc thời gian xuất hiện các giá trị nhiệt độ bằng hoặc lớn hơn (mùa nóng cũng như mùa lạnh) trị số đã chọn chiếm bằng Pc (%) của tổng số lần hoặc tổng thời gian cả năm.Mối quan hệ giữa tần suất tích lũy xuất hiện hàng năm Pc và xác suất bảo đảm Pe được thể hiện bằng biểu thức: Pc = (1 - Pe) × 100 % - về mùa nóng hoặc Pc = Pe × 100 % - về mùa lạnh.CHÚ THÍCH 4: Về mùa nóng trị số nhiệt độ tính toán chọn càng cao thì giá trị Pc càng nhỏ, ngược lại về mùa lạnh trị số nhiệt độ tính toán chọn càng thấp thì giá trị Pc càng lớn. Như vậy hai trị số tần suất tích lũy xuất hiện hàng năm Pc mùa nóng và mùa lạnh cùng dòng trong Bảng C.1 là tương ứng với cùng một xác suất bảo đảm Pe.CHÚ THÍCH 5: Tần suất tích lũy xuất hiện hàng năm Pc được xử lý đối với nhiệt độ khô và nhiệt độ ướt một cách riêng rẽ, xem như hai thông số đó độc lập với nhau. Tuy nhiên, để kể đến yếu tố đồng thời của các thông số không khí, ASHRAE có đưa ra khái niệm \"nhiệt độ ướt trùng hợp\" (“The coincident wet-bulb temperature”) - là giá trị trung bình của tất cả các trị số nhiệt độ ướt xuất hiện trùng hợp với trị số nhiệt độ khô đã chọn (định nghĩa của ASHRAE: \"The coincident wet-bulb temperature listed with each design dry-bulb temperature is the mean of all wet-bulb temperatures occurring at the specific dry-bulb temperature\").CHÚ THÍCH 6: Theo ASHRAE, hệ thống điều hoà không khí về mùa nóng được tính toán với các tần suất tích lũy xuất hiện hàng năm Pc (xem như 3 cấp) của nhiệt độ khô và nhiệt độ ướt là 0,4 % ; 1 % và 2 % tương ứng với số giờ không bảo đảm lần lượt là 35 h/năm; 88 h/năm và 175 h/năm hoặc với Pe lần lượt là 0,996; 0,990 và 0,980, còn về mùa lạnh chỉ lấy 2 tần suất tích lũy xuất hiện hàng năm Pc (xem như 2 cấp) của nhiệt độ khô dùng để tính toán sưởi ấm là 99,6 % và 99 % tương ứng với số giờ không bảo đảm lần lượt là 35 h/năm và 88 h/năm hoặc với Pe lần lượt là 0,996 và 0,990.Phụ lục D (quy định) Tiêu chuẩn giới hạn nồng độ cho phép của các hóa chất và bụi trong không khí vùng làm việc Bảng D.1 - Giá trị giới hạn tiếp xúc tối đa cho phép các yếu tố hóa học tại nơi làm việc Đơn vị tính: mg/m3 Tên hóa chất Tên hóa chất tiếng Anh Công thức hóa học Phân tử lượng Số CAS Giới hạn tiếp xúc ca làm việc (TWA) Giới hạn tiếp xúc ngắn (STEL) Nhóm độc tính theo IARC Aceton Acetone (CH3)2CO 58,08 67-64-1 200 1000 - Acid acetic Acetic acid CH3COOH 60,08 64-19-7 25 35 - Acid hydrochloric Hydrogen chloride HCl 36,46 7647-01-0 5,0 7,5 3 Acid sulfuric Sulfuric acid H2SO4 98,08 7664-93-9 1,0 2,0 1 Amonia Ammonia NH3 17,03 7664-41-7 17 25 - Anilin Aniline C6H5NH2 93,13 62-53-3 4,0 - 3 Arsenic và hợp chất Arsenic and compound As 74,92 7440-38-2 0,01 - 1 Arsin Arsine AsH3 77,95 7784-42-1 0,05 - 1 Benzen Benzene C6H6 78,12 78,12 5,0 15,0 1 n-Butanol n-Butanol C4H9OH 74,12 71-36-3 150 - - Cadmi và hợp chất Cadmium and compounds Cd 112,41 7440-43-9 0,005 - 1 CdO 128,41 1306-19-0 Carbon dioxide Carbon dioxide CO2 44,01 124-38-9 9 000 18 000 - Carbon disulfide Carbon disulfide CS2 76,13 75-15-0 15 25 - Carbon monoxide Carbon monoxide CO 28,01 630-08-0 20 40 - Carbon tetrachloride Carbon tetrachloride CCl4 153,84 56-23-5 10 20 2B Chlor Chlorine Cl2 70,90 7782-50-5 1,5 3,0 - Chloroform Chloroform CHCl3 119,37 67-66-3 10 20 2B Chromi (III) (dạng hợp chất) Chromium (III) compounds Cr3+ 52 16065-83-1 0,5 - 3 Chromi (VI) (dạng hòa tan trong nước) Chromium (VI) compounds (water soluble) Cr6+ - 1333-82-0 0,01 - 1 Chromi (VI) oxide Chromium trioxide CrO3 99,99 1333-82-0 0,05 - 1 Cobalt và hợp chất Cobalt and compounds Co 58,93 7440-48-4 0,05 - 2B Dichloromethan Dichloromethane CH2Cl2 84,93 75-09-2 50 - 2A Đồng và hợp chất (dạng bụi) Copper and compounds (dust) Cu 63,55 7440-50-8 0,5 - - Đồng và hợp chất (dạng hơi,khói) Copper and compounds (fume) Cu 63,55 7440-50-8 0,1 - - CuO 79,55 1317-38-0 CuO2 95,55 1317-39-1 Ethanol Ethanol CH3CH2OH 46,08 64-17-5",
+    "page": 50
+  },
+  {
+    "id": "e956cf15-7a3b-4122-a05d-2327b0df553a",
+    "text": "3 000 1 Fluor Fluorine F2 38,00 7782-41-4 0,2 0,4 - Fluoride Fluorides F- 19,00 16984-48-8 1,0 - 3 Formaldehyde Formaldehyde HCHO 30,30 50-00-0 0,5 1,0 1 n-Hexan n-Hexane CH3(CH2)4CH3 86,20 110-54-3 90 - - Hydro cyanide Hydrogen cyanide HCN 27,03 74-90-8 0,3 0,6 - Hydro sulfide Hydrogen sulfide H2S 34,08 7783-06-4 10 15 - Kẽm oxide (dạng khói, bụi) Zinc oxide (dust,fume) ZnO 81,37 1314-13-2 5,0 - - Mangan và các hợp chất Manganese and compounds Mn 54,94 7439-96-5 0,3 - - Methanol Methanol CH3OH 32,04 67-56-1 50 100 - Methyl acetat Methyl acetate CH3COOCH3 74,09 79-20-9 100 250 - Nhôm và các hợp chất Aluminum and compounds Al 26,98 7429-90-5 2,0 - - Nicotin Nicotine C10H14N2 162,23 54-11-5 0,5 - - Nitơ dioxide Nitrogen dioxide NO2 46,01 10102-44-0 5,0 10 - Nitơ monoxide Nitric oxide NO 30,01 10102-43-9 10 - - Nitro benzen Nitrobenzene C6H5NO2 123,12 98-95-3 3,0 - 2B Nitro toluen Nitrotoluene CH3C6H4NO2 137,15 99-99-0 11 - 3 99-08-1 3 88-72-2 2A Phenol Phenol C6H5OH 94,12 108-96-2 4,0 - 3 Selen dioxide Selenium dioxide SeO2 110,96 7446-08-4 0,1 - 3 Selen và các hợp chất Selenium and compounds Se 78,96 7782-49-2 0,1 - 3 Sulfur dioxide Sulfur dioxide SO2 66,06 7446-09-5 5,0 10 3 Toluen Toluene C6H5CH3 92,15 108-88-3 100 300 3 2,4,6 - Trinitrotoluen (TNT) 2,4,6 - Trinitrotoluene C7H5N3O6 227,15 118-96-7 0,1 - 3 Vinyl chloride Vinyl chloride C2H3Cl 62,50 75-01-4 1,0 - 1 Xăng Petrol (Petrol distillates, gasoline) CnH2n+2 99,99 8006-61-9 300 - 2A 89290-81-5 Xylen Xylene C6H4(CH3)2 106 1330-20-7 100 300 3 Bảng D.2 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi amiăng tại nơi làm việc theo [1] Đơn vị tính: sợi/mL Tên chất Giới hạn tiếp xúc ca làm việc (TWA)",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "Cà Mau 0,4 99,6 0,996 34,2 27,7 25,9 21,5 20,0 20,3 1,0 99,0 0,990 33,6 27,3 25,8 22,2 20,6 21,1 1,5 98,5 0,985 33,3 27,1 25,9 22,5 21,0 21,4 2,0 98,0 0,980 33,0 27,0 25,7 22,7 21,2 21,6 2,5 97,5 0,975 32,8 26,9 25,7 22,9 21,4 21,8 3,0 97,0 0,970 32,6 26,9 25,9 23,1 21,5 21,9 3,5 96,5 0,965 32,4 26,8 25,8 23,2 21,7 22,0 4,0 96,0 0,960 32,3 26,7 25,7 23,3 21,8 22,2 4,5 95,5 0,955 32,1 26,7 25,7 23,5 21,9 22,4 5,0 95,0 0,950 32,0 26,6 25,7 23,6 22,0 22,4 CHÚ THÍCH 1: Trong Bảng C.1 hiện chỉ có số liệu cho 15 địa phương đại diện cho tất cả 7 vùng khí hậu. Các số liệu cho các địa phương khác sẽ được cập nhật bổ sung. Đối với các địa phương chưa có trong Bảng C.1 tạm thời có thể tham khảo số liệu cho ở địa phương lân cận; có thể nội suy theo khoảng cách giữa hai địa phương nằm liền kề hai bên hoặc chọn theo vùng khí hậu nêu trong [2].CHÚ THÍCH 2: Thông số không khí bên ngoài cho điều hoà không khí chọn theo tần suất tích lũy xuất hiện hàng năm của nhiệt độ khô và nhiệt độ ướt theo [17].CHÚ THÍCH 3: Trị số nhiệt độ chọn theo tần suất tích lũy xuất hiện hàng năm Pc là trị số mà số lần hoặc thời gian xuất hiện các giá trị nhiệt độ bằng hoặc lớn hơn (mùa nóng cũng như mùa lạnh) trị số đã chọn chiếm bằng Pc (%) của tổng số lần hoặc tổng thời gian cả năm.Mối quan hệ giữa tần suất tích lũy xuất hiện hàng năm Pc và xác suất bảo đảm Pe được thể hiện bằng biểu thức: Pc = (1 - Pe) × 100 % - về mùa nóng hoặc Pc = Pe × 100 % - về mùa lạnh.CHÚ THÍCH 4: Về mùa nóng trị số nhiệt độ tính toán chọn càng cao thì giá trị Pc càng nhỏ, ngược lại về mùa lạnh trị số nhiệt độ tính toán chọn càng thấp thì giá trị Pc càng lớn. Như vậy hai trị số tần suất tích lũy xuất hiện hàng năm Pc mùa nóng và mùa lạnh cùng dòng trong Bảng C.1 là tương ứng với cùng một xác suất bảo đảm Pe.CHÚ THÍCH 5: Tần suất tích lũy xuất hiện hàng năm Pc được xử lý đối với nhiệt độ khô và nhiệt độ ướt một cách riêng rẽ, xem như hai thông số đó độc lập với nhau. Tuy nhiên, để kể đến yếu tố đồng thời của các thông số không khí, ASHRAE có đưa ra khái niệm \"nhiệt độ ướt trùng hợp\" (“The coincident wet-bulb temperature”) - là giá trị trung bình của tất cả các trị số nhiệt độ ướt xuất hiện trùng hợp với trị số nhiệt độ khô đã chọn (định nghĩa của ASHRAE: \"The coincident wet-bulb temperature listed with each design dry-bulb temperature is the mean of all wet-bulb temperatures occurring at the specific dry-bulb temperature\").CHÚ THÍCH 6: Theo ASHRAE, hệ thống điều hoà không khí về mùa nóng được tính toán với các tần suất tích lũy xuất hiện hàng năm Pc (xem như 3 cấp) của nhiệt độ khô và nhiệt độ ướt là 0,4 % ; 1 % và 2 % tương ứng với số giờ không bảo đảm lần lượt là 35 h/năm; 88 h/năm và 175 h/năm hoặc với Pe lần lượt là 0,996; 0,990 và 0,980, còn về mùa lạnh chỉ lấy 2 tần suất tích lũy xuất hiện hàng năm Pc (xem như 2 cấp) của nhiệt độ khô dùng để tính toán sưởi ấm là 99,6 % và 99 % tương ứng với số giờ không bảo đảm lần lượt là 35 h/năm và 88 h/năm hoặc với Pe lần lượt là 0,996 và 0,990.Phụ lục D (quy định) Tiêu chuẩn giới hạn nồng độ cho phép của các hóa chất và bụi trong không khí vùng làm việc Bảng D.1 - Giá trị giới hạn tiếp xúc tối đa cho phép các yếu tố hóa học tại nơi làm việc Đơn vị tính: mg/m3 Tên hóa chất Tên hóa chất tiếng Anh Công thức hóa học Phân tử lượng Số CAS Giới hạn tiếp xúc ca làm việc (TWA) Giới hạn tiếp xúc ngắn (STEL) Nhóm độc tính theo IARC Aceton Acetone (CH3)2CO 58,08 67-64-1 200 1000 - Acid acetic Acetic acid CH3COOH 60,08 64-19-7 25 35 - Acid hydrochloric Hydrogen chloride HCl 36,46 7647-01-0 5,0 7,5 3 Acid sulfuric Sulfuric acid H2SO4 98,08 7664-93-9 1,0 2,0 1 Amonia Ammonia NH3 17,03 7664-41-7 17 25 - Anilin Aniline C6H5NH2 93,13 62-53-3 4,0 - 3 Arsenic và hợp chất Arsenic and compound As 74,92 7440-38-2 0,01 - 1 Arsin Arsine AsH3 77,95 7784-42-1 0,05 - 1 Benzen Benzene C6H6 78,12 78,12 5,0 15,0 1 n-Butanol n-Butanol C4H9OH 74,12 71-36-3 150 - - Cadmi và hợp chất Cadmium and compounds Cd 112,41 7440-43-9 0,005 - 1 CdO 128,41 1306-19-0 Carbon dioxide Carbon dioxide CO2 44,01 124-38-9 9 000 18 000 - Carbon disulfide Carbon disulfide CS2 76,13 75-15-0 15 25 - Carbon monoxide Carbon monoxide CO 28,01 630-08-0 20 40 - Carbon tetrachloride Carbon tetrachloride CCl4 153,84 56-23-5 10 20 2B Chlor Chlorine Cl2 70,90 7782-50-5 1,5 3,0 - Chloroform Chloroform CHCl3 119,37 67-66-3 10 20 2B Chromi (III) (dạng hợp chất) Chromium (III) compounds Cr3+ 52 16065-83-1 0,5 - 3 Chromi (VI) (dạng hòa tan trong nước) Chromium (VI) compounds (water soluble) Cr6+ - 1333-82-0 0,01 - 1 Chromi (VI) oxide Chromium trioxide CrO3 99,99 1333-82-0 0,05 - 1 Cobalt và hợp chất Cobalt and compounds Co 58,93 7440-48-4 0,05 - 2B Dichloromethan Dichloromethane CH2Cl2 84,93 75-09-2 50 - 2A Đồng và hợp chất (dạng bụi) Copper and compounds (dust) Cu 63,55 7440-50-8 0,5 - - Đồng và hợp chất (dạng hơi,khói) Copper and compounds (fume) Cu 63,55 7440-50-8 0,1 - - CuO 79,55 1317-38-0 CuO2 95,55 1317-39-1 Ethanol Ethanol CH3CH2OH 46,08 64-17-5",
+    "page": 50
+  },
+  {
+    "id": "404dd642-cc57-4287-b4ed-f4b7d754607b",
+    "text": "2 Bakelit, oxit sắt, oxit kẽm, dioxit titan, silicat, apatit,baril, photphatit, đá vôi, đá trân châu, đá cẩm thạch, xi măng Portland.4,0 2,0 3 Bụi nguồn gốc từ thảo mộc, động vật, chè, thuốc lá, ngũ cốc, gỗ.6,0 3,0 4 Bụi hữu cơ và vô cơ không có quy định khác.8,0 4,0 Bảng D.5 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi bông tại nơi làm việc theo [1] Đơn vị tính: mg/m3 Tên chất Giới hạn tiếp xúc ca làm việc (TWA) Bụi bông 1,0 Bảng D.6 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi than tại nơi làm việc theo [1] Đơn vị tính: mg/m3 Thông số Giới hạn tiếp xúc ca làm việc (TWA) Hàm lượng silic tự do",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "Nồng độ silic tự do trong bụi hô hấp 0,1 Bảng D.4 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi không chứa silic tại nơi làm việc theo [1] Đơn vị tính: mg/m3 Nhóm Tên chất Giới hạn tiếp xúc ca làm việc (TWA) Bụi toàn phần Bụi hô hấp 1 Talc, nhôm, bentonit, diatomit, pyrit, graphit, cao lanh,than hoạt tính.2,0",
+    "page": 52
+  },
+  {
+    "id": "4bab6fd3-b3d3-4981-a054-8c1f982469a3",
+    "text": "Thông số của không khí trong phòng",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "29e615bf-639e-4096-874f-9c798a55ea21",
+    "text": "Thông số của không khí bên ngoài 6 Thiết kế hệ thống thông gió và điều hòa không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "b917446a-c84d-4cfb-a787-d4bb20071350",
+    "text": "Chỉ dẫn chung",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "40993211-75d1-47fc-b868-aae52f7aeb64",
+    "text": "Lưu lượng không khí ngoài (gió tươi) theo yêu cầu vệ sinh, lưu lượng không khí thổi vào và không khí tuần hoàn (gió hồi)",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "a5d9d3f3-0575-4367-8c4a-83e667605f77",
+    "text": "Tổ chức thông gió và trao đổi không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "0eac5bac-a94d-44bb-9c9e-a1a896e87f91",
+    "text": "Vị trí đặt cửa lấy không khí ngoài (gió tươi)",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "5cbfd0cf-e7d2-4736-a0e8-6c4f8f8684aa",
+    "text": "Không khí thải (gió thải)",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "5ae28a61-75d4-4120-a572-4a61fe90c57b",
+    "text": "Lọc sạch bụi trong không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "d2c16007-29e3-4d9d-b87a-c956545c0a41",
+    "text": "Rèm không khí (màn gió)",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "fec9341b-ec76-4a81-a677-4e810e9077b1",
+    "text": "Thông gió sự cố",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "6a053389-5b0c-4f29-a22d-3a0fddb54911",
+    "text": "Thiết bị thông gió và điều hoà không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "54120de8-9318-42a5-a20f-e441cf20d2b1",
+    "text": "Gian phòng máy thiết bị thông gió và điều hòa không khí",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "2f02d43c-41c4-418b-adf2-6a85d04f5d98",
+    "text": "",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  },
+  {
+    "id": "ab0db989-d03c-417d-bb98-5b00e8acbef2",
+    "text": "Đường ống dẫn không khí (đường ống gió) 7 Bảo vệ chống khói khi có cháy 8 Cấp lạnh 9 Sử dụng nguồn nhiệt thải 10 Kiểm soát quản lý năng lượng 11 Cấp thoát nước cho hệ thống thông gió và điều hòa không khí 12 Cấp điện và tự động hóa cho hệ thống thông gió và điều hòa không khí Phụ lục A (tham khảo) Các thông số không khí bên trong nhà đảm bảo điều kiện tiện nghi nhiệt Phụ lục B (quy định) Các thông số của không khí bên ngoài cho điều hoà không khí theo số giờ không bảo đảm hoặc xác suất bảo đảm Phụ lục D (quy định) Tiêu chuẩn giới hạn nồng độ cho phép của các hóa chất và bụi trong không khí vùng làm việc Phụ lục E (quy định) Tiêu chuẩn lưu lượng không khí ngoài cấp cho các phòng điều hòa không khí tiện nghi theo yêu cầu vệ sinh môi trường Phụ lục F (tham khảo) Lưu lượng không khí ngoài (gió tươi) cho các phòng được thông gió cơ khí Phụ lục G (tham khảo) Xác định lưu lượng và nhiệt độ không khí cấp vào phòng Phụ lục H (tham khảo) Tính toán lưu lượng khói cần phải thải khi có cháy Phụ lục J (tham khảo) Phân loại độc tính cấp tính nguy hại cho sức khỏe Phụ lục K (tham khảo) Vận hành hệ thống thông gió và điều hoà không khí hiện hữu trong thời gian xảy ra đại dịch Thư mục tài liệu tham khảo • Nội dung VB • Văn bản gốc • Tiếng anh • Lược đồ • VB liên quan • Bản án áp dụng Vui lòng Đăng ký tài khoản hoặc đăng nhập để xem và tải văn bản gốc.",
+    "doc_code": "TCVN5687_2024",
+    "doc_name": "THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ - YÊU CẦU THIẾT KẾ",
+    "section": "",
+    "page": 74
+  }
+]

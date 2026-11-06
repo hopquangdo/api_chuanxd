@@ -1,0 +1,213 @@
+import os
+import json
+import uuid
+import traceback
+import threading
+from typing import List, Optional
+
+import torch
+import numpy as np
+from sentence_transformers import SentenceTransformer
+from qdrant_client import QdrantClient
+from qdrant_client.http import models
+
+from app.schemas.document import Document
+from app.config.env import settings
+from app.config.logger import setup_logger
+
+logger = setup_logger("VECTOR_DB")
+
+
+class VectorDB:
+    _embed_lock = threading.Lock()
+    _embed_model = None
+
+    def __init__(
+        self,
+        host=settings.VECTORDB_HOST,
+        port=settings.VECTORDB_PORT,
+        collection_name=settings.VECTORDB_COLLECTION_NAME,
+        embedding_model=settings.VECTORDB_EMBEDDING_MODEL,
+        rebuild: bool = False,
+        data_dir: str = "/home/ubuntu/dqh/api_chuanxd/data/processed"
+    ):
+        self.client = QdrantClient(host=host, port=port, check_compatibility=False)
+        self.collection_name = collection_name
+        self.device = "cuda" if torch.cuda.is_available() else "cpu"
+        self.embedding_model_name = embedding_model
+        self.data_dir = data_dir
+
+        self._get_embed_model()
+
+        if rebuild:
+            logger.warning("⚠️ Rebuild enabled → deleting old collection")
+            self._rebuild_collection()
+            self._load_and_insert_data()
+        else:
+            self._ensure_collection()
+
+    # =========================
+    # Embedding
+    # =========================
+    def _get_embed_model(self) -> SentenceTransformer:
+        if VectorDB._embed_model is None:
+            with VectorDB._embed_lock:
+                if VectorDB._embed_model is None:
+                    logger.info("Loading embedding model...")
+                    VectorDB._embed_model = SentenceTransformer(
+                        self.embedding_model_name,
+                        device=self.device
+                    )
+                    # PhoBERT-based model only has 258 position embeddings
+                    VectorDB._embed_model.max_seq_length = 256
+        return VectorDB._embed_model
+
+    def _embed(self, text: str) -> np.ndarray:
+        return self._get_embed_model().encode(
+            [text or ""],
+            convert_to_numpy=True,
+            normalize_embeddings=True
+        )[0]
+
+    # =========================
+    # Collection
+    # =========================
+    def _ensure_collection(self):
+        try:
+            self.client.get_collection(self.collection_name)
+        except Exception:
+            self.client.create_collection(
+                collection_name=self.collection_name,
+                vectors_config=models.VectorParams(
+                    size=self._get_embed_model().get_sentence_embedding_dimension(),
+                    distance=models.Distance.COSINE
+                )
+            )
+
+    def _rebuild_collection(self):
+        try:
+            self.client.delete_collection(self.collection_name)
+        except Exception:
+            pass
+
+        self._ensure_collection()
+
+    # =========================
+    # Insert
+    # =========================
+    def _build_point(self, doc: Document) -> models.PointStruct:
+        vector = self._embed(doc.text)
+
+        payload = doc.model_dump(exclude_none=True)
+        payload.pop("id", None)
+
+        return models.PointStruct(
+            id=doc.id or str(uuid.uuid4()),
+            vector=vector.tolist(),
+            payload=payload
+        )
+
+    def add_documents(self, documents: List[Document]):
+        points = []
+
+        for doc in documents:
+            try:
+                points.append(self._build_point(doc))
+            except Exception:
+                logger.error(f"Error insert doc\n{traceback.format_exc()}")
+
+        if points:
+            self.client.upsert(
+                collection_name=self.collection_name,
+                points=points
+            )
+            logger.info(f"Inserted {len(points)} documents")
+
+    # =========================
+    # Load JSON recursively
+    # =========================
+    def _load_and_insert_data(self):
+        docs = []
+
+        logger.info(f"Loading data from {self.data_dir}")
+
+        for root, _, files in os.walk(self.data_dir):
+            for file in files:
+                if not file.endswith(".json"):
+                    continue
+
+                path = os.path.join(root, file)
+
+                try:
+                    with open(path, "r", encoding="utf-8") as f:
+                        data = json.load(f)
+
+                    if not isinstance(data, list):
+                        continue
+
+                    for item in data:
+                        doc = Document(**item)
+
+                        if not doc.text or not doc.text.strip():
+                            continue
+
+                        docs.append(doc)
+
+                except Exception:
+                    logger.error(
+                        f"Failed loading {path}\n{traceback.format_exc()}"
+                    )
+
+        logger.info(f"Total documents loaded: {len(docs)}")
+        self.add_documents(docs)
+
+
+
+    # =========================
+    # Query
+    # =========================
+    def query(
+        self,
+        query_text: str,
+        document_codes: Optional[List[str]] = None,
+        top_k: int = 5
+    ) -> List[Document]:
+        vector = self._embed(query_text)
+
+        q_filter = None
+        if document_codes:
+            q_filter = models.Filter(
+                must=[
+                    models.FieldCondition(
+                        key="doc_code",
+                        match=models.MatchAny(any=document_codes)
+                    )
+                ]
+            )
+
+        result = self.client.query_points(
+            collection_name=self.collection_name,
+            query=vector.tolist(),
+            limit=top_k,
+            query_filter=q_filter
+        )
+
+        documents = []
+
+        for point in result.points:
+            payload = point.payload or {}
+
+            documents.append(
+                Document(
+                    id=str(point.id),
+                    text=payload.get("text"),
+                    doc_code=payload.get("doc_code"),
+                    doc_name=payload.get("doc_name"),
+                    section=payload.get("section"),
+                    sub_section=payload.get("sub_section"),
+                    part=payload.get("part"),
+                    page=payload.get("page"),
+                )
+            )
+
+        return documents

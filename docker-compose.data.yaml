@@ -1,0 +1,16 @@
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant_aichuanxd
+    restart: always
+    ports:
+      - "6334:6333"
+    volumes:
+      - ./volumes/qdrant/data:/qdrant/storage
+    networks:
+      - aichuanxd-net
+
+networks:
+  aichuanxd-net:
+    external: true
+

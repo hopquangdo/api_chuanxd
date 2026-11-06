@@ -1,0 +1,825 @@
+[
+  {
+    "id": "f1c5b62c-7dfe-431c-a291-1434c6404755",
+    "text": "Tiêu chuẩn này áp dụng để thiết kế mới hoặc cải tạo các loại nhà ở chung cư (nhà ở căn hộ),nhà ở ký túc xá xây dựng tại các thành phố, thị xã, thị trấn hay khu nhà ở của các cơ quan, xí nghiệp và trường học.CHÚ THÍCH: Nhà ở chung cư, nhà ở ký túc xá sau đây gọi tắt là nhà ở.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phạm vi áp dụng",
+    "page": 1
+  },
+  {
+    "id": "46d0de4d-7be3-4953-9019-aaae64f90eda",
+    "text": "Tiêu chuẩn này có thể áp dụng đối với những nhà ở cũ khi sửa chữa lại thuộc nhà nước quản lí, nhà ở của tư nhân xây dựng trong phạm vi khu đất nội thành, nội thị.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phạm vi áp dụng",
+    "page": 1
+  },
+  {
+    "id": "f2606c74-bbe7-47bd-83f5-3e81cdbd9b8a",
+    "text": "Khi thiết kế xây dựng nhà ở tại các điểm dân cư nông trường, lâm trường, phải tuân theo những quy định về diện tích ở, vệ sinh và an toàn trong tiêu chuẩn này. Diện tích các công trình phụ được phép thiết kế theo những quy định riêng cho phù hợp yêu cầu đặc trưng của từng địa phương.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phạm vi áp dụng",
+    "page": 1
+  },
+  {
+    "id": "a411f32d-96dd-4147-9d8c-756a5328fb46",
+    "text": "Căn hộ ở Không gian ở cho một gia đình, một cá nhân hay tập thể, đáp ứng nhu cầu sinh hoạt của một gia đình, của tập thể cũng như của mỗi thành viên.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Thuật ngữ và định nghĩa",
+    "page": 2
+  },
+  {
+    "id": "5e1f4e24-9807-45eb-bd15-56165463eeb9",
+    "text": "Nhà ở chung cư Nhà ở hai tầng trở lên, có lối đi, cầu thang và hệ thống công trình hạ tầng sử dụng chung cho nhiều căn hộ gia đình, cá nhân.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Thuật ngữ và định nghĩa",
+    "page": 2
+  },
+  {
+    "id": "16b9d92b-ce23-4ae8-8468-f207225bd619",
+    "text": "Tầng trên mặt đất Tầng mà cốt sàn của nó cao hơn hoặc bằng cốt mặt đất đặt công trình theo qui hoạch được duyệt.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Thuật ngữ và định nghĩa",
+    "page": 3
+  },
+  {
+    "id": "96fcf7d8-d395-425f-92e6-c3695bebea8f",
+    "text": "Tầng hầm Tầng mà quá một nửa chiều cao của nó nằm dưới cốt mặt đất đặt công trình theo qui hoạch được duyệt.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Thuật ngữ và định nghĩa",
+    "page": 3
+  },
+  {
+    "id": "19fb5e8c-8e7c-4d18-9f26-bde179debfe6",
+    "text": "Tầng nửa hầm Tầng mà một nửa chiều cao của nó nằm trên hoặc ngang cốt mặt đất đặt công trình theo qui hoạch được duyệt.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Thuật ngữ và định nghĩa",
+    "page": 3
+  },
+  {
+    "id": "f723a996-1564-4f14-a05d-e47835d202aa",
+    "text": "Tầng áp mái Tầng nằm bên trong không gian của mái dốc mà toàn bộ hoặc một phần mặt đứng của nó được tạo bởi bề mặt mái nghiêng hoặc mái gấp, trong đó tường đứng (nếu có), không cao quá mặt sàn 1,5m.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Thuật ngữ và định nghĩa",
+    "page": 3
+  },
+  {
+    "id": "69b965a1-999d-48b3-912c-6d7fd267ecfc",
+    "text": "Chiều cao tầng Chiều cao tầng là khoảng cách giữa hai sàn nhà, được tính từ sàn tầng dưới đến sàng tầng kế tiếp.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Thuật ngữ và định nghĩa",
+    "page": 3
+  },
+  {
+    "id": "b1a3ebc4-855d-4775-9aaa-fc1386b57a9b",
+    "text": "Chiều cao thông thủy Chiều cao từ mặt sàn hoàn thiện đến mặt dưới của kết cấu chịu lực hoặc trần đã hoàn thiện của tầng đó.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Thuật ngữ và định nghĩa",
+    "page": 3
+  },
+  {
+    "id": "6177ec46-bd3e-40a0-a01d-b5dfa8adda14",
+    "text": "Phòng ở Các phòng trong căn hộ được sử dụng độc lập hoặc kết hợp các chức năng. Phòng ở gồm phòng ngủ, phòng sinh hoạt chung, phòng tiếp khách, phòng làm việc học tập, phòng ăn….",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Thuật ngữ và định nghĩa",
+    "page": 3
+  },
+  {
+    "id": "d2d1a026-7e0a-41ad-a967-53fedfa98d60",
+    "text": "Nhà ở được thiết kế theo loại và cấp công trình như quy định về phân loại, phân cấp công trình dân dụng [1].",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 3
+  },
+  {
+    "id": "c8b6b74b-d869-4b19-b56b-09b5e8301566",
+    "text": "Khi thiết kế nhà ở phải đảm bảo độ bền vững, an toàn, tiện nghi sử dụng của công trình, phù hợp với điều kiện khí hậu, tự nhiên, phong tục tập quán, đáp ứng yêu cầu về an toàn sinh mạng và sức khỏe [2], đảm bảo yêu cầu tiếp cận và sử dụng của người khuyết tật theo quy định hiện hành.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 3
+  },
+  {
+    "id": "7cdc3b62-3da2-460d-b80b-fe46523f99f4",
+    "text": "Khi tầng kỹ thuật được thiết kế dưới nền của tầng một hoặc tầng trệt (trong tầng hầm) thì chiều cao thông thủy tầng kỹ thuật không được nhỏ hơn 1,6 m và phải được thông trực tiếp với bên ngoài bằng cửa hoặc lỗ qua tường có nắp không nhỏ hơn 0,6 m x 0,6 m.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 4
+  },
+  {
+    "id": "dbebaeb2-2f69-4c58-b211-03d977a6cc1b",
+    "text": "Khi chiều cao tầng nửa hầm, tầng áp mái kể cả tầng trên mặt đất tính từ cao độ mặt đất theo quy hoạch được duyệt đến mặt trần hoàn thiện không nhỏ hơn 2 m thì được xác định là tầng của ngôi nhà.CHÚ THÍCH: Cao độ mặt đất theo quy hoạch được duyệt là cao độ vỉa hè được quy định là cao độ ± 0,000 tại vị trí có công trình để tính toán chiều cao cho phép của ngôi nhà.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 4
+  },
+  {
+    "id": "ae3a5893-2051-44ec-adb7-57ed4fcc8f33",
+    "text": "Khi thiết kế chỗ lắp đặt thiết bị điều hòa, chỗ phơi quần áo cần đảm bảo không làm ảnh hưởng đến kiến trúc mặt đứng của công trình và vệ sinh môi trường. Chỗ để điều hòa cần thống nhất vị trí, kích thước để đảm bảo mỹ quan.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 4
+  },
+  {
+    "id": "94c077b5-e186-4d7b-9bd6-62016b9102df",
+    "text": "Tùy vào yêu cầu cụ thể để thiết kế phòng thu gom rác tại chỗ đặt tại các tầng hay bố trí đường ống đổ rác cho tòa nhà.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 4
+  },
+  {
+    "id": "b98f1e75-876c-48c3-bea5-f1ca0624b74b",
+    "text": "Mặt ngoài công trình không được sử dụng màu sắc, vật liệu gây ảnh hưởng tới thị giác, sức khỏe con người. Đảm bảo các điều kiện về an ninh, tiếng ồn, tầm nhìn, cảnh quan và vệ sinh môi trường.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 4
+  },
+  {
+    "id": "b2167a81-ede5-4bf0-b836-66a32d9cb6ce",
+    "text": "Biển quảng cáo gắn với tòa nhà ở chung cư phải tuân thủ quy định có liên quan về quảng cáo.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 4
+  },
+  {
+    "id": "65b7d4fa-b705-4d7e-a0ec-5bf71396ff34",
+    "text": "Phân định diện tích trong nhà ở được quy định trong Phụ lục A của tiêu chuẩn này.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 4
+  },
+  {
+    "id": "7cef7b60-de23-4b44-ae41-083c56660c2d",
+    "text": "Phương pháp xác định hệ số khối, hệ số mặt bằng của nhà ở được xác định theo Phụ lục B của tiêu chuẩn này.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 4
+  },
+  {
+    "id": "1900b2a2-71c5-4d45-830b-e803ae54d7a6",
+    "text": "Khi thiết kế nhà ở căn hộ và nhà ở ký túc xá, ngoài việc tuân thủ các quy định trong tiêu chuẩn này cần tuân thủ các quy định trong TCVN 4450 và TCVN 9210:2012 .",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Quy định chung",
+    "page": 4
+  },
+  {
+    "id": "d113abce-661d-418e-9215-08dd1cbb6ba6",
+    "text": "Khu đất xây dựng nhà ở phải đảm bảo các nguyên tắc cơ bản sau: - Phù hợp với quy hoạch xây dựng được duyệt;- Có hệ thống hạ tầng kỹ thuật và hạ tầng xã hội đồng bộ, đáp ứng yêu cầu hiện tại và phát triển trong tương lai;- Không được bố trí trong khu vực cấm xây dựng; hành lang bảo vệ công trình giao thông, thủy lợi, đê điều, năng lượng, di tích lịch sử - văn hóa và khu vực bảo vệ các công trình khác theo quy định của pháp luật; khu vực có nguy cơ lở đất, lũ quét, ngập úng, bị ô nhiễm bởi chất thải công nghiệp, bãi rác, nghĩa trang.- Đảm bảo an toàn phòng chống cháy nổ và vệ sinh môi trường.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về khu đất xây dựng và quy hoạch tổng mặt bằng",
+    "page": 4
+  },
+  {
+    "id": "f305dbb9-58e1-45f2-9f6d-c2d9311ee5b6",
+    "text": "Khi thiết kế nhà ở phải tính đến khả năng sử dụng linh hoạt, tùy theo cơ cấu căn hộ ở, vị trí trên khu đất xây dựng, không gian kiến trúc để thiết kế cho phù hợp với những yêu cầu về xây dựng đô thị [3].",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về khu đất xây dựng và quy hoạch tổng mặt bằng",
+    "page": 5
+  },
+  {
+    "id": "77cd4134-328a-4b18-9e91-688928d1bac6",
+    "text": "Nên lựa chọn hướng nhà là hướng của cửa sổ phòng ở mở ra để đón gió mát hoặc lấy ánh sáng. Trong nhà ở căn hộ, ít nhất phải có một số phòng quay về hướng quy định: - Căn hộ có 2 và 3 phòng: 1 phòng;- Căn hộ có 4 phòng trở lên: 2 phòng; Trong nhà ở tập thể (ký túc xá): ít nhất có 40 % số phòng ở có hướng tiếp xúc với bên ngoài nhà. CHÚ THÍCH: 1) Hướng đón gió mặt xác định theo những số liệu khí hậu tự nhiên dùng trong xây dựng.2) Đối với những phòng ở có hướng không phù hợp cần có biện pháp che chắn.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về khu đất xây dựng và quy hoạch tổng mặt bằng",
+    "page": 5
+  },
+  {
+    "id": "14f86b1a-8e64-4277-858a-e8f093ab6f13",
+    "text": "Cao độ sàn lối vào nhà phải cao hơn cao độ lề đường ở lối vào tối thiểu 0,15 m.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 5
+  },
+  {
+    "id": "fd3f6665-7cd4-4a62-8df0-fe7fdef4fabb",
+    "text": "Các phòng ở phải bố trí tại các tầng trên mặt đất. Khi nhà ở được xây dựng sát với chỉ giới đường đỏ, cao độ mặt nền (sàn) phòng ở phải cao hơn cao độ vỉa hè ít nhất là 0,50m.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 5
+  },
+  {
+    "id": "70a9c46d-1e41-4af7-9577-a9502051c5a8",
+    "text": "Diện tích tối thiểu căn hộ ở trong nhà ở chung cư là: - 30 m2 đối với nhà ở xã hội;- 45 m2 đối với nhà ở thương mại.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 5
+  },
+  {
+    "id": "9de8008a-f82e-42ce-a0e3-ca39633c1c87",
+    "text": "Tiêu chuẩn diện tích ở tối thiểu đối với nhà ở ký túc xá dành cho các đối tượng là học sinh,sinh viên các trường đại học, cao đẳng, trung cấp chuyên nghiệp và dạy nghề là 4 m2/người.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 5
+  },
+  {
+    "id": "e7cfa5eb-6eb8-4d0c-bf46-ccaac3e9ca46",
+    "text": "Phòng ở trong ký túc xá cũng được kết hợp với các phòng như tiền phòng, bếp, phòng vệ sinh.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 5
+  },
+  {
+    "id": "a140bed5-ce22-48d2-b1ff-4fd77719a4cd",
+    "text": "Trong nhà ở ký túc xá được thiết kế bếp hoặc khu vệ sinh chung cho một số phòng ở, nhưng không lớn hơn 25 người. Cần bố trí các gian phòng phục vụ công cộng như sinh hoạt văn hóa,học tập, thể thao, nghỉ ngơi, ăn uống công cộng, phục vụ y tế, quản trị, hành chính. Thành phần và diện tích phòng phục vụ công cộng lấy theo nhiệm vụ thiết kế.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 5
+  },
+  {
+    "id": "54f74b92-e1b5-46ef-b8e9-f67e512e2f6c",
+    "text": "Tùy thuộc vào chức năng sử dụng và yêu cầu về khối tích của từng phòng ở trong căn hộ ở, trong ký túc xá mà thiết kế chiều cao và chiều rộng cho thích hợp.- Chiều cao tầng không được nhỏ hơn 3,0m;- Chiều cao thông thủy của phòng không được nhỏ hơn 2,7m;- Chiều cao thông thủy của phòng ở trong tầng áp mái không được nhỏ hơn 1,5m;- Đối với các phòng ở trong ký túc xá sử dụng giường tầng, chiều cao thông thủy không nhỏ hơn 3,3m. Trong trường hợp này chiều rộng thông thủy của phòng không được nhỏ hơn 3,3m.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "4d35c102-b5c2-4630-849e-6bb0194117bc",
+    "text": "Chiều cao thông thủy của các phòng phụ không nhỏ hơn 2,4m.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "31ad97b6-5f33-45f0-aa90-89495a9c6542",
+    "text": "Chiều cao tầng kỹ thuật được xác định trong từng trường hợp cụ thể, tùy thuộc vào loại thiết bị và hệ thống bố trí trong tầng kỹ thuật có tính tới điều kiện vận hành sử dụng.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "b8bd47f1-b6ad-435c-a793-17a712dbc7c0",
+    "text": "Chiều sâu thông thủy của phòng ở tính theo chiều lấy ánh sáng tự nhiên trực tiếp (lấy ánh sáng từ một phía) không được vượt quá 6,0 m và không được lớn hơn hai lần chiều rộng phòng ở. Trong điều kiện cần thiết để phù hợp với kích thước mô đun cho phép tăng chiều sâu nhưng không quá 5%.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "67da6dea-58a4-41e6-b5d3-1f882d11cdca",
+    "text": "Các phòng tắm, rửa, giặt, xí, tiểu của tầng trên không được bố trí trên bếp, kho, chỗ chuẩn bị thức ăn của tầng dưới.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "921ef85c-6979-4119-b0e7-735d456aa5f9",
+    "text": "Sàn của các tầng trong nhà ở phải được cách âm.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "3da2fb10-57e1-4b24-803e-3c9e8cd40b0d",
+    "text": "Số bậc ở cầu thang (đợt thang) hoặc chuyển bậc không nhỏ hơn 3 và không lớn hơn 18.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "b06aba64-5aec-4d1b-a124-4c055def57eb",
+    "text": "Chiều rộng hành lang trong nhà ở giữa các cầu thang hoặc giữa cầu thang với đầu hành lang tối thiểu phải đạt yêu cầu sau: - Khi chiều dài hành lang đến 40 m: 1,4 m;- Khi chiều dài hành lang trên 40 m: 1,6m.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "099b2390-e789-460d-a08a-5e91a28ad7f2",
+    "text": "Cầu thang và chiếu nghỉ phải có kết cấu bao che, tay vịn. Đối với nhà ở cho người già yếu và người khuyết tật phải làm thêm tay vịn dọc tường.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "ea75463d-916b-4bca-a7a2-29d7bfaa175c",
+    "text": "Lan can lôgia và ban công nhà cao từ 3 tầng trở lên phải làm bằng vật liệu không cháy.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "f75314a0-ff0d-40a8-8060-551972cdab38",
+    "text": "Lôgia và ban công không được lắp kính để sử dụng vào các mục đích khác.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 6
+  },
+  {
+    "id": "1b28bcd7-533b-4c8e-87a9-47059fc75265",
+    "text": "Nhà ở cao trên 6 tầng phải thiết kế thang máy. Số lượng và các chỉ tiêu của thang máy được tính toán phù hợp với giải pháp thiết kế được lựa chọn.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 7
+  },
+  {
+    "id": "bd8b83de-8729-4f39-a36b-f9060710ca64",
+    "text": "Chiều rộng sảnh trước thang máy phải đáp ứng các yêu cầu sau: - Thang máy chở người trọng tải 400 kg: 1,2 m;- Thang máy chở người trọng tải 630 kg và buồng thang máy (2 100 mm x 1 100 mm): 1,6m;- Buồng thang máy (1 100 mm x 2 100 mm): 2,1 m.CHÚ THÍCH: Kích thước buồng thang máy được tính theo chiều rộng x chiều sâu.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 7
+  },
+  {
+    "id": "c44ce122-464a-4c9e-a74c-741c59b19b39",
+    "text": "Giếng thang máy không được bố trí kề bên phòng ở.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 7
+  },
+  {
+    "id": "1096ba45-9882-4578-85ce-0d22550b8c71",
+    "text": "Khi nhà ở quay ra mặt phố hay ra quảng trường, được phép bố trí ở tầng một (tầng trệt) hoặc tầng hầm, tầng nửa hầm các cửa hàng công nghệ phẩm, siêu thị, dịch vụ ăn uống công cộng, cửa hàng, cửa hiệu, phòng quản lý khu ở, phòng thể dục dưới 150 m2, phòng sinh hoạt công cộng. Trong trường hợp này phải đảm bảo yêu cầu phòng chống cháy, cách âm và chống gây mùi ô nhiễm cho nhà ở bằng các giải pháp kỹ thuật thích hợp. Khi trong nhà ở hoặc liền kề với nhà ở có bố trí các cửa hàng, siêu thị thì không được thiết kế lối vào nhà trực tiếp với sân nhập hàng.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 7
+  },
+  {
+    "id": "127f3acf-9134-4988-bffd-f16bc13fd523",
+    "text": "Trong nhà ở không được bố trí: - Trạm bơm và nồi hơi;- Trạm biến thế ở trong hoặc liền kề với nhà;- Trạm điện thoại tự động, trừ trạm điện thoại phục vụ cho tòa nhà;- Trụ sở cơ quan hành chính các cấp;- Phòng khám bệnh, trừ khám phụ khoa và răng;- Phòng ăn, giải khát trên 50 chỗ;- Nhà vệ sinh công cộng;- Các bộ phận phát sinh ra tiếng động, tiếng ồn, hơi độc hại và chất thải độc hại quá giới hạn cho phép;- Các cửa hàng vật liệu xây dựng, hóa chất, tạp phẩm mà khi hoạt động làm ô nhiễm môi trường xung quanh nhà ở;- Các cửa hàng buôn bán vật liệu cháy, nổ;- Nhà tắm công cộng, xông hơi, nhà giặt và tẩy hóa chất (trừ khu thu nhận đồ và nhà giặt tự phục vụ).",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 7
+  },
+  {
+    "id": "b72d2ced-a073-4794-8ad8-1fd3c4f7639a",
+    "text": "Dưới các phòng ở không được bố trí: - Các lò đun nước nóng của hệ thống cấp nước nóng cho ngôi nhà;- Phòng lạnh của các xí nghiệp buôn bán và phục vụ công cộng.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 8
+  },
+  {
+    "id": "2aff1dfe-506c-4ec4-8dfc-2e3252739f8f",
+    "text": "Khi thiết kế nhà ở tại vùng có động đất phải tuân thủ quy định trong TCVN 9386- 1÷2:2012.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu thiết kế kiến trúc",
+    "page": 8
+  },
+  {
+    "id": "2fe3ac43-b276-4913-9626-bcdc679b653b",
+    "text": "1. Thiết kế hệ thống cấp thoát nước cho nhà ở phải tuân thủ các quy định trong TCVN 4474 và TCVN 4513.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế cấp thoát nước",
+    "page": 8
+  },
+  {
+    "id": "813974c9-e800-4bb8-a180-924ec24a83ba",
+    "text": "2. Mạng lưới phân phối của đường ống cấp nước bên trong phải được đặt ngầm trong tường hoặc trong hộp kỹ thuật. Các van đặt trong rãnh ngầm hoặc hộp kỹ thuật phải có cửa kiểm tra để thuận tiện cho việc quản lý và sửa chữa.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế cấp thoát nước",
+    "page": 8
+  },
+  {
+    "id": "9bcdc252-82df-43bb-8fcf-c25dac7478ac",
+    "text": "3. Đường ống cấp nước và thoát nước không được phép đặt lộ dưới trần của các phòng.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế cấp thoát nước",
+    "page": 8
+  },
+  {
+    "id": "0452d941-e6d0-4908-a533-0b0d4f682f78",
+    "text": "4. Hệ thống xử lý nước thải phải được thiết kế đảm bảo chất lượng nước thải theo quy định của TCVN 6772:2000 trước khi chảy vào hệ thống thoát nước của khu vực.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế cấp thoát nước",
+    "page": 8
+  },
+  {
+    "id": "2a6320d0-6a9b-4567-80ef-74005a6a5cd7",
+    "text": "5. Phải thiết kế hệ thống thoát nước mưa trên mái để đảm bảo thoát nước mưa với mọi thời tiết trong năm. Các ống đứng thoát nước mưa không được phép rò rỉ, bố trí không ảnh hưởng đến mỹ quan kiến trúc và phải được nối vào hệ thống thoát nước của tòa nhà.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế cấp thoát nước",
+    "page": 8
+  },
+  {
+    "id": "fb07441c-06fb-467f-91bd-6c470bc31ce9",
+    "text": "Yêu cầu thiết kế hệ thống thông gió, điều hòa không khí",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống thông gió, điều hòa không khí",
+    "page": 8
+  },
+  {
+    "id": "89cf23d9-daeb-4c08-b07c-0121f5a6a381",
+    "text": "1. Phải triệt để tận dụng thông gió tự nhiên cho phòng ở. Không giải quyết thông gió tự nhiên cho các phòng ở thông qua bếp, rửa, giặt, tắm, xí và kho. Thiết kế hệ thống thông gió, điều hòa không khí theo TCVN 5687:2010 .",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống thông gió, điều hòa không khí",
+    "page": 8
+  },
+  {
+    "id": "e0e2ee20-64bc-49bd-9531-11e997cfe122",
+    "text": "2. Các phòng xí, tiểu, tắm nếu không được thông gió tự nhiên trực tiếp phải được thông gió nhân tạo.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống thông gió, điều hòa không khí",
+    "page": 8
+  },
+  {
+    "id": "2b975643-e9d3-4f81-a504-5a679a9b0c2e",
+    "text": "3. Vị trí lắp đặt điều hòa không khí, các ống thoát khí và thoát nước ngưng phải bố trí ở vị trí không ảnh hưởng đến các căn hộ xung quanh và ảnh hưởng đến mỹ quan, vệ sinh môi trường.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống thông gió, điều hòa không khí",
+    "page": 8
+  },
+  {
+    "id": "9e4e8b8f-1a1d-4f35-a350-83555155a659",
+    "text": "1. Hệ thống điện chiếu sáng nhân tạo và chiếu sáng tự nhiên được thiết kế theo TCXD 16:1986 và TCXD 29:1991 .",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống điện chiếu sáng và thiết bị điện",
+    "page": 9
+  },
+  {
+    "id": "957aa220-1587-4b9a-be52-4945a919eb68",
+    "text": "2. Cần ưu tiên chiếu sáng tự nhiên ở những nơi sau đây: phòng ở, bếp, khu vệ sinh, tiền phòng, tổng cầu thang, hàng lang chung, phòng sinh hoạt công cộng trong ký túc xá. Đối với các phòng tắm, rửa, giặt, xí, tiểu, kho không nhất thiết phải được chiếu sáng tự nhiên trực tiếp.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống điện chiếu sáng và thiết bị điện",
+    "page": 9
+  },
+  {
+    "id": "9987af00-a774-4cf1-8265-55893c8af148",
+    "text": "3. Tỷ lệ diện tích ô cửa được chiếu sáng của tất cả các phòng ở, bếp, so với diện tích sàn các khu vực kể trên không lớn hơn 1:5, tối thiểu, không nhỏ hơn 1:8.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống điện chiếu sáng và thiết bị điện",
+    "page": 9
+  },
+  {
+    "id": "fc501512-db62-4fcf-8c39-d85ac1b18c0e",
+    "text": "4. Cách tính diện tích của các loại cửa lấy ánh sáng tham khảo quy định trong Phụ lục C.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống điện chiếu sáng và thiết bị điện",
+    "page": 9
+  },
+  {
+    "id": "8465ca34-5d96-4885-9f4b-9a0d5ea2f5c4",
+    "text": "5. Khi chiếu sáng qua ô cửa ở tường ngoài phía đầu hồi, thì chiều dài hành lang chung là 24 m và hai đầu hồi là 48 m.Trường hợp hành lang dài hơn các giá trị trên cần phải thiết kế chiếu sáng tự nhiên bổ sung qua khoang lấy (chiếu) sáng. Khoảng cách giữa 2 khoang lấy sáng không lớn hơn 24 m. Khoảng cách giữa khoang lấy sáng và cửa chiếu sáng ở đầu hành lang không lớn hơn 30 m.Nếu hành lang ngắn hơn 10 m, có thể chiếu sáng qua buồng thang hoặc cửa các phòng phụ bố trí dọc bên hành lang.CHÚ THÍCH: 1) Bề rộng khoang lấy ánh sáng phải lớn hơn 1/2 bề sâu của khoang tính từ tường ngoài đến cạnh hành lang.2) Khi dùng cửa sổ buồng thang để chiếu sáng bổ sung, tỉ lệ diện tích sàn buồng thang phải lớn hơn 1/6.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống điện chiếu sáng và thiết bị điện",
+    "page": 9
+  },
+  {
+    "id": "17a911e0-0bac-44c7-a673-debfbfae6e0f",
+    "text": "6. Việc cung cấp điện từ tủ, bảng điện tầng đến bảng điện của từng căn hộ phải sử dụng các tuyến dây hoặc cáp điện dọc theo hành lang và chôn ngầm trong tường. Trường hợp kẹp nổi phải luồn dây qua ống nhựa chống cháy hoặc ống thép.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống điện chiếu sáng và thiết bị điện",
+    "page": 9
+  },
+  {
+    "id": "1586b34d-1ee6-4575-908f-6241a16a5650",
+    "text": "7. Hệ thống chiếu sáng trong căn hộ được bảo vệ bằng các áptomát. Số lượng các ổ cắm trong phòng không được ít hơn 2. Ổ cắm điện và các hộp nối lắp đặt trong phòng tắm và nhà bếp phải có bộ phận ngắt dòng và phải được đặt ở vị trí và độ cao thích hợp. Để an toàn, tất cả các công tắc, ổ cắm nối với nguồn điện phải được bảo vệ bằng bộ phận ngắt dòng tiếp đất.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống điện chiếu sáng và thiết bị điện",
+    "page": 9
+  },
+  {
+    "id": "f0aecdf4-5cb0-43f3-a717-a04279dd2118",
+    "text": "8. Trong nhà ở căn hộ phải đặt đồng hồ đếm điện cho từng căn hộ. Trong nhà ở ký túc xá phải đặt đồng hồ đếm điện cho từng phòng hoặc cho từng đơn nguyên.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống điện chiếu sáng và thiết bị điện",
+    "page": 9
+  },
+  {
+    "id": "8e463d4d-76f3-4516-928a-3b65ec95d56d",
+    "text": "9. Thiết kế hệ thống chống sét phải tuân theo quy định trong TCVN 9385:2012 .",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống điện chiếu sáng và thiết bị điện",
+    "page": 9
+  },
+  {
+    "id": "97d46a22-92e8-476a-98fb-0924b4aec908",
+    "text": "1. Thiết kế, lắp đặt hệ thống thông tin, liên lạc, phát thanh, truyền hình cho nhà ở phải đảm bảo an toàn, thuận tiện cho việc khai thác sử dụng và đấu nối với hệ thống các dịch vụ của nhà cung cấp đồng thời phải đảm bảo có khả năng thay thế, sửa chữa và có khoảng cách tối thiểu tới các đường ống kỹ thuật khác.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống thông tin liên lạc, viễn thông",
+    "page": 10
+  },
+  {
+    "id": "e625c08f-6fc6-438d-95ea-9974bb2c79ea",
+    "text": "2. Thiết kế lắp đặt hệ thống thông tin, liên lạc, phát thanh, truyền hình phải tuân theo các quy định có liên quan.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống thông tin liên lạc, viễn thông",
+    "page": 10
+  },
+  {
+    "id": "0001409c-6fe3-4b65-a8f2-c24f2e8cb6f9",
+    "text": "3. Các hệ thống thông tin liên lạc, truyền hình cần chôn sẵn ống cáp vào trong tường. Ở mỗi tầng cần bố trí hộp nối dây.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống thông tin liên lạc, viễn thông",
+    "page": 10
+  },
+  {
+    "id": "e91de67f-00dd-4d30-9ed6-0042d431b51a",
+    "text": "4. Hệ thống mạng lưới truyền thanh, truyền hình từ tủ phân phối đến các căn hộ phải đi ngầm trong hộp kỹ thuật, đồng thời phải có giải pháp chống sét cho các cột thu sóng.Trên mái nhà ở được phép bố trí cột ăng-ten, chảo thu, phát sóng truyền thanh, truyền hình tại vị trí được cơ quan quản lý đô thị cho phép và đảm bảo an toàn, mỹ quan theo quy định có liên quan. Trường hợp cần thiết cho phép bố trí ở tầng áp mái các thiết bị thu sóng truyền hình.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống thông tin liên lạc, viễn thông",
+    "page": 10
+  },
+  {
+    "id": "11119918-9e6f-4e87-b80b-41e9516ab774",
+    "text": "1. Khi trong nhà ở có nhu cầu lắp đặt hệ thống cung cấp khí đốt phải đảm bảo tuân thủ TCXDVN 377:2006 và TCXDVN 387:2006 .",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống cung cấp ga, khí đốt",
+    "page": 10
+  },
+  {
+    "id": "a05a0ee3-17a8-473c-ac1a-9f988ddced95",
+    "text": "2. Khi thiết kế lắp đặt hệ thống cung cấp ga, khí đốt phải đảm bảo các thông số kỹ thuật về đường ống, giá đỡ, dụng cụ đo, thiết bị an toàn, quy cách, không gian lắp đặt thiết bị và phải có giải pháp chống ăn mòn thiết bị, đường ống.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống cung cấp ga, khí đốt",
+    "page": 10
+  },
+  {
+    "id": "20f997b2-503f-47ed-b38e-10f9e347f18f",
+    "text": "3. Không thiết kế đường ống cấp chính, ống đứng đi qua phòng ngủ, phòng tắm, phòng vệ sinh hoặc phòng chứa rác thải.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống cung cấp ga, khí đốt",
+    "page": 10
+  },
+  {
+    "id": "bc2316e3-1bc3-46d0-afb3-83efb9699057",
+    "text": "4. Phòng bếp sử dụng khí đốt phải có cửa thoát khói. Thể tích phòng bếp phải đảm bảo đủ không khí cho quá trình cháy tự nhiên.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về hệ thống kỹ thuật",
+    "sub_section": "Yêu cầu thiết kế hệ thống cung cấp ga, khí đốt",
+    "page": 10
+  },
+  {
+    "id": "dfd38bc2-385e-4476-a53a-99cda0cf08f7",
+    "text": "Nhà ở không được vượt quá mức giới hạn cho phép về bậc chịu lửa, số tầng, chiều dài, diện tích xây dựng như quy định trong Bảng 1.Bảng 1 – Quy định về bậc chịu lửa, số tầng, chiều dài, diện tích xây dựng Bậc chịu lửa Số tầng Chiều dài giới hạn lớn nhất của ngôi nhà m Diện tích xây dựng lớn nhất cho phép m2 Có tường ngăn cháy Không có tường ngăn cháy Có tường ngăn cháy Không có tường ngăn cháy I-II Không quy định Không quy định 110 Không quy định 2 200 III Từ 1 đến 5 Không quy định 90 Không quy định 1 800 IV 1 140 70 2 800 1 400 2 100 50 2 000 1 000 V 1 100 50 2 000 1 000 2 80 40 1 600 800 CHÚ THÍCH: Nhà ở kiểu đơn nguyên với bậc chịu lửa I và II có kết cấu chịu lực của mái không cháy thì cho phép không xây dựng tường ngăn cháy.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về phòng chống cháy",
+    "page": 10
+  },
+  {
+    "id": "dfd38bc2-385e-4476-a53a-99cda0cf08f7",
+    "text": "Nhà ở không được vượt quá mức giới hạn cho phép về bậc chịu lửa, số tầng, chiều dài, diện tích xây dựng như quy định trong Bảng 1.Bảng 1 – Quy định về bậc chịu lửa, số tầng, chiều dài, diện tích xây dựng Bậc chịu lửa Số tầng Chiều dài giới hạn lớn nhất của ngôi nhà m Diện tích xây dựng lớn nhất cho phép m2 Có tường ngăn cháy Không có tường ngăn cháy Có tường ngăn cháy Không có tường ngăn cháy I-II Không quy định Không quy định 110 Không quy định 2 200 III Từ 1 đến 5 Không quy định 90 Không quy định 1 800 IV 1 140 70 2 800 1 400 2 100 50 2 000 1 000 V 1 100 50 2 000 1 000 2 80 40 1 600 800 CHÚ THÍCH: Nhà ở kiểu đơn nguyên với bậc chịu lửa I và II có kết cấu chịu lực của mái không cháy thì cho phép không xây dựng tường ngăn cháy.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về phòng chống cháy",
+    "page": 10
+  },
+  {
+    "text": "Nhà ở không được vượt quá mức giới hạn cho phép về bậc chịu lửa, số tầng, chiều dài, diện\ntích xây dựng như quy định trong Bảng 1 \nBậc chịu lửa: I-II | Số tầng: Không quy định | Chiều dài tối đa (Có tường ngăn cháy): Không quy định | Chiều dài tối đa (Không có tường ngăn cháy): 110m | Diện tích tối đa (Có tường ngăn cháy): Không quy định | Diện tích tối đa (Không có tường ngăn cháy): 2.200m²\nBậc chịu lửa: III | Số tầng: Từ 1 đến 5 | Chiều dài tối đa (Có tường ngăn cháy): Không quy định | Chiều dài tối đa (Không có tường ngăn cháy): 90m | Diện tích tối đa (Có tường ngăn cháy): Không quy định | Diện tích tối đa (Không có tường ngăn cháy): 1.800m²\nBậc chịu lửa: IV | Số tầng: 1 | Chiều dài tối đa (Có tường ngăn cháy): 140m | Chiều dài tối đa (Không có tường ngăn cháy): 70m | Diện tích tối đa (Có tường ngăn cháy): 2.800m² | Diện tích tối đa (Không có tường ngăn cháy): 1.400m²\nBậc chịu lửa: IV | Số tầng: 2 | Chiều dài tối đa (Có tường ngăn cháy): 100m | Chiều dài tối đa (Không có tường ngăn cháy): 50m | Diện tích tối đa (Có tường ngăn cháy): 2.000m² | Diện tích tối đa (Không có tường ngăn cháy): 1.000m²\nBậc chịu lửa: V | Số tầng: 1 | Chiều dài tối đa (Có tường ngăn cháy): 100m | Chiều dài tối đa (Không có tường ngăn cháy): 50m | Diện tích tối đa (Có tường ngăn cháy): 2.000m² | Diện tích tối đa (Không có tường ngăn cháy): 1.000m²\nBậc chịu lửa: V | Số tầng: 2 | Chiều dài tối đa (Có tường ngăn cháy): 80m | Chiều dài tối đa (Không có tường ngăn cháy): 40m | Diện tích tối đa (Có tường ngăn cháy): 1.600m² | Diện tích tối đa (Không có tường ngăn cháy): 800m²",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về phòng chống cháy",
+    "page": 10
+  },
+  {
+    "text": "Khoảng cách lớn nhất từ cửa vào của phòng ở tới buồng thang hoặc lối thoát ra ngoài gần\nnhất được quy định trong Bảng 2 – Khoảng cách lớn nhất từ cửa phòng ở tới buồng thang hoặc lối thoát gần nhất\nBậc chịu lửa: I | Ngữ cảnh: Khoảng cách từ cửa phòng tới lối thoát/buồng thang | Phòng giữa hai lối đi/buồng thang: Tối đa 40m | Phòng có hành lang cụt: Tối đa 25m\nBậc chịu lửa: II | Ngữ cảnh: Khoảng cách từ cửa phòng tới lối thoát/buồng thang | Phòng giữa hai lối đi/buồng thang: Tối đa 40m | Phòng có hành lang cụt: Tối đa 25m\nBậc chịu lửa: III | Ngữ cảnh: Khoảng cách từ cửa phòng tới lối thoát/buồng thang | Phòng giữa hai lối đi/buồng thang: Tối đa 30m | Phòng có hành lang cụt: Tối đa 20m\nBậc chịu lửa: IV | Ngữ cảnh: Khoảng cách từ cửa phòng tới lối thoát/buồng thang | Phòng giữa hai lối đi/buồng thang: Tối đa 25m | Phòng có hành lang cụt: Tối đa 15m\nBậc chịu lửa: V | Ngữ cảnh: Khoảng cách từ cửa phòng tới lối thoát/buồng thang | Phòng giữa hai lối đi/buồng thang: Tối đa 20m | Phòng có hành lang cụt: Tối đa 10m",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về phòng chống cháy",
+    "page": 11
+  },
+  {
+    "id": "fd926ac0-2546-459d-9ec3-b6c807b99981",
+    "text": "Chiều rộng tổng cộng của các cầu thang, các đường đi trên lối thoát nạn của ngôi nhà, tính\ntheo số người trong tầng đông nhất, không kể tầng 1 được quy định trong như sau:\n- Đối với nhà ở hai tầng: 1,00 m chiều rộng cho 125 người;\n- Đối với nhà ở ba tầng trở lên: 1,00 m chiều rộng cho 100 người;\n- Khi số lượng ở tầng đông nhất dưới 125 người (đối với nhà 2 tầng) hoặc dưới 100 người (đối\nvới nhà 3 tầng trở lên) thì chiều rộng tổng cộng lấy bằng 0,90 m.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về phòng chống cháy",
+    "page": 11
+  },
+  {
+    "id": "5f8a7c4a-01cd-4f28-805b-63433ee71e14",
+    "text": "Chiều rộng mỗi vế thang trên lối thoát nạn phải bảo đảm bằng hoặc lớn hơn chiều rộng nhỏ nhất cầu thang. Độ dốc phải nhỏ hơn độ dốc lớn nhất quy định trong Bảng 3: Quy định chiều rộng và độ dốc thang\nDữ liệu được làm phẳng dựa trên loại cầu thang và mục đích sử dụng:\nThang chính (Trong nhà ở hai tầng): Chiều rộng nhỏ nhất là 0,90 m; Độ dốc lớn nhất là 1 : 1,5.\nThang chính (Trong nhà ở trên ba tầng): Chiều rộng nhỏ nhất là 1,00 m; Độ dốc lớn nhất là 1 : 1,75.\nThang chính (Có vệt dắt xe đạp): Độ dốc lớn nhất là 1 : 2,5.\nThang phụ (Xuống tầng hầm, chân tường không để ở): Chiều rộng nhỏ nhất là 0,90 m; Độ dốc lớn nhất là 1 : 1,5.\nThang phụ (Lên tầng áp mái): Chiều rộng nhỏ nhất là 0,09 m; Độ dốc lớn nhất là 1 : 1,25.\nThang phụ (Trong nội bộ căn hộ): Chiều rộng nhỏ nhất là 0,90 m; Độ dốc lớn nhất là 1 : 1,25.\nCác quy định kỹ thuật bổ sung:\nCách tính chiều rộng: Chiều rộng vế thang tính thông thủy giữa mặt tường và cốn thang, hoặc giữa hai mặt tường/hai cốn thang.\nVị trí tay vịn: Khi vế thang ở mức chiều rộng nhỏ nhất, tay vịn phải đặt ở phía ngoài cùng của vế thang.\nKích thước chiếu nghỉ/chiếu tới: Tối thiểu 1,2 m cho cầu thang thường và tối thiểu 2,1 m cho cầu thang có vệt dắt xe đạp, xe máy.\nVệt dắt xe đạp: Không được tính vào chiều rộng vế thang và phải đảm bảo an toàn thoát nạn khi thiết kế.\nCách tính độ dốc: Được tính bằng tỉ lệ giữa chiều cao trên chiều rộng của bậc thang.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về phòng chống cháy",
+    "page": 11
+  },
+  {
+    "id": "93513e71-c5cf-4109-b824-3a58342ed0cb",
+    "text": "Cần thiết kế hệ thống báo cháy tự động để thông báo cho mọi người biết khi có cháy.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về phòng chống cháy",
+    "page": 11
+  },
+  {
+    "id": "4a9c921a-9896-4b9d-9449-cd9e56931f0a",
+    "text": "Ngoài những quy định trên đây, khi thiết kế nhà ở còn phải tuân theo những quy định về an toàn cháy cho nhà và công trình [5] và TCVN 2622.Bảng 3 – Quy định chiều rộng và độ dốc thang Loại cầu thang Chiều rộng nhỏ nhất m Độ dốc lớn nhất",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Yêu cầu về phòng chống cháy",
+    "page": 12
+  },
+  {
+    "id": "0ff597b5-5dce-4a83-9014-c67ae18f9752",
+    "text": "Chiều rộng thông thủy nhỏ nhất cho phép của lối thoát nạn được quy định trong Bảng 4 - Chiều rộng thông thủy lối thoát nạn\nLối thoát nạn (Lối đi): Chiều rộng thông thủy nhỏ nhất cho phép là 1,00 m.\nLối thoát nạn (Hành lang): Chiều rộng thông thủy nhỏ nhất cho phép là 1,40 m.\nLối thoát nạn (Cửa đi): Chiều rộng thông thủy nhỏ nhất cho phép là 0,80 m.\nLối thoát nạn (Vế thang): Chiều rộng thông thủy nhỏ nhất cho phép là 1,05 m.\nQuy định hành lang: Nếu đoạn hành lang thẳng dài không quá 40 m thì chiều rộng hành lang được phép giảm đến 1,2 m.\nQuy định lối đi căn hộ: Chiều rộng lối đi bên trong căn hộ được phép giảm đến 0,90 m.\nQuy định cửa thoát nạn: Chiều cao các cửa đi trên lối thoát nạn không được nhỏ hơn 2,0 m.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Thang phụ a) Xuống tầng hầm, chân tường không để ở 0,90 1 : 1,5 b) Lên tầng áp mái 0,09 1 : 1,25 c) Trong nội bộ căn hộ 0,90 1 : 1,25 CHÚ THÍCH: 1) Chiều rộng về thang tính thông thủy giữa mặt tường và cốn thang, giữa hai mặt tường hoặc hai cốn thang.2) Khi chiều rộng vế thang bằng mức nhỏ nhất thì tay vịn phải để phía ngoài cùng của vế thang.3) Chiều rộng của chiếu nghỉ, chiếu tới không được nhỏ hơn 1,2 m đối với mọi cầu thang thông thường. Đối với cầu thang có vệt dắt xe đạp, xe máy không được nhỏ hơn 2,1 m.4) Vệt dắt xe đạp không tính vào chiều rộng của vế thang. Khi thiết kế vệt dắt xe phải tính toán điều kiện an toàn cho thoát nạn khi có sự cố.5) Độ dốc cầu thang tính bằng tỉ lệ chiều cao trên chiều rộng của bậc.",
+    "page": 12
+  },
+  {
+    "text": "Diện tích sử dụng của mỗi căn hộ là tổng diện tích ở và diện tích phụ sử dụng riêng biệt. Đối với nhà ở nhiều căn hộ thì diện tích sử dụng của mỗi căn hộ là diện tích sử dụng riêng biệt của từng căn hộ cộng với phần diện tích phụ dùng chung cho nhiều hộ, được phân bổ theo tỷ lệ với diện tích ở của từng căn hộ.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 13
+  },
+  {
+    "text": "Diện tích các phòng, các bộ phận sử dụng đều được tính theo kích thước thông thủy (trừ bề dày tường, vách, cột kể cả lớp trát nhưng không trừ bề dày lớp vật liệu ốp chân tường hay ốp tường).\nDiện tích các gian phòng có chiều cao thấp hơn được tính vào tổng diện tích với hệ số 0,7.\nCHÚ THÍCH: Các ống rác, ống khói, thông hơi, điện, nước và các đường ống kỹ thuật khác đặt trong phòng hay bộ phận nào thì không tính vào diện tích các gian phòng hay bộ phận đó.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 13
+  },
+  {
+    "text": "Diện tích sử dụng trong nhà ở là tổng diện tích các phòng ở và các phòng phụ, được tính như sau:\na) Diện tích ở là tổng diện tích các phòng chính dùng để ở bao gồm:\n- Phòng ở (phòng ngủ, phòng sinh hoạt chung, phòng khách, phòng làm việc, giải trí) trong nhà ở căn hộ;\n- Phòng ở, phòng ngủ trong nhà ở ký túc xá;\n- Các tủ tường, tủ xây, tủ lẩn có cửa mở về phía trong phòng ở;\n- Diện tích phần dưới cầu thang bố trí trong các phòng ở của căn hộ (nếu chiều cao từ mặt nền đến mặt dưới cầu thang dưới 1,60 m thì không tính phần diện tích này).",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 13
+  },
+  {
+    "text": "Diện tích sử dụng trong nhà ở là tổng diện tích các phòng ở và các phòng phụ, được tính như sau:\nb) Diện tích phụ: là tổng diện tích các phòng phụ hoặc bộ phận sau đây:\n- Phòng tiếp khách, sinh hoạt chung, phòng quản lý trong nhà ở ký túc xá;\n- Bếp (chỗ đun nấu, rửa, gia công, chuẩn bị) không kể diện tích chiếm chỗ của ống khói, ống rác, ống cấp, thoát nước;\n- Phòng tắm rửa, giặt, xí, tiểu và lối đi bên trong các phòng đối với nhà ở thiết kế khu vệ sinh tập trung;\n- Kho;\n- Một nửa diện tích lôgia;\n- 0,3 diện tích ban công, thềm;\n- 0,35 diện tích sân trời;\n- Các hành lang, lối đi của căn hộ hoặc các phòng ở;\n- Các tiền sảnh, phòng đệm… sử dụng riêng cho một căn hộ hoặc một vài phòng ở;\n- Các lối đi, lối vào, phòng đệm của khu bếp hay khu tắm rửa, giặt, xí, tiểu tập trung;\n- Các tủ xây, tủ lẩn của căn hộ có cửa mở về phía trong các bộ phận hay phòng phụ.\nCHÚ THÍCH: Trong nhà ở nhiều căn hộ, diện tích phụ dùng chung cho nhiều căn hộ như phòng\nđể xe, phòng sinh hoạt công cộng chung, phòng quản lý hoặc bảo vệ thì không tính vào diện tích trên.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 14
+  },
+  {
+    "text": "Tổng diện tích sử dụng các gian phòng trong ký túc xá được xác định bằng tổng diện tích các phòng ở, phòng phụ trợ, phòng phục vụ công cộng, lôgia, ban công, hiên. Trong đó lôgia, ban công, hiên được tính theo quy định ở A. 3 b).",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 14
+  },
+  {
+    "text": "Không tính vào tổng diện tích nhà ở các trường hợp sau: diện tích tầng hầm để thông gió, tầng áp mái, tầng áp mái có đặt hệ thống kỹ thuật, tầng kỹ thuật, hệ thống kỹ thuật bên ngoài căn hộ, buồng đệm cầu thang, giếng thang máy, cầu thang ngoài trời.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 14
+  },
+  {
+    "text": "Diện tích nhà ở được tính bằng tổng diện tích các tầng nhà, trong giới hạn mặt bên trong của tường ngoài, với diện tích ban công và lôgia. Diện tích cầu thang, giếng thang máy, được tính vào diện tích tầng nhà của tầng đó.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 14
+  },
+  {
+    "text": "Diện tích các gian phòng trong nhà ở được tính theo các kích thước đo giữa các bề mặt ngăn cách của tường và tường ngăn trên sàn nhà (không tính gờ chân tường). Khi xác định diện tích tầng áp mái thì tính như sau:- Trần áp mái dốc 30o – chiều cao trần lấy 1,5 m;\n- Trần áp mái dốc 45o – chiều cao trần lấy 1,1m;\n- Trần áp mái dốc 60o trở lên – chiều cao trần lấy 0,5m.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 14
+  },
+    {
+    "text": "Diện tích giao thông là tổng diện tích các bộ phận sử dụng chung cho căn hộ hoặc các phòng ở vào việc đi lại trong ngôi nhà. Diện tích các bộ phận sau đây đều tính vào diện tích giao thông:\na) Buồng thang, kể cả chiếu nghỉ, chiếu tới;\nb) Hành lang sử dụng chung cho các căn hộ, các phòng ở;\nc) Tiền sảnh, sành tầng;\nd) Các thang ngoài nhà;",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 15
+  },
+  {
+    "text": "Diện tích kết cấu là tổng số diện tích của tường vách, cột tính trên mặt bằng (mặt cắt bằng). Diện tích các bộ phận sau đây đều tính vào diện tích kết cấu:\na) Tường chịu lực hay không chịu lực, tường ngăn, vách ngăn, cột;\nb) Ngưỡng cửa đi, bậu cửa sổ các loại;\nc) Các ống khói, các ống thông hơi, ống điện, nước và các ống kỹ thuật khác kể cả phần lòng ống\nvà thành ống;\nd) Các hốc tường, các khoảng trống giữa hai phòng (không lắp cửa đi) có chiều rộng nhỏ hơn 1,50m và chiều cao nhỏ hơn 1,90m.\nCHÚ THÍCH: Diện tích kết cấu được xác định bằng cách lấy diện tích nền (sàn) của tầng trừ đi các diện tích ở, diện tích phụ, diện tích giao thông của tầng ấy. Nếu là tầng một (tầng trệt) thì chính là diện tích xây dựng trừ đi các diện tích ở, diện tích phụ, diện tích giao thông.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 15
+  },
+  {
+    "text": "Diện tích khác là tổng số diện tích của các phòng hay bộ phận không dùng để ở mà chỉ dùng vào các chức năng sử dụng khác của ngôi nhà như: ăn uống, giải khát, cắt tóc, cửa hàng bán lẻ, chỗ để xe, phòng giặt công cộng…",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 15
+  },
+  {
+    "text": "",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục A - Phân định diện tích trong nhà ở",
+    "page": 15
+  },
+  {
+    "text": "Khi thiết kế nhà ở phải tính toán hệ số khối: K, K1, K2",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục B: Phương pháp xác định hệ số khối mặt bằng của nhà ở",
+    "page": 16
+  },
+  {
+    "text": "Hệ số khối mặt bằng K, K1, K2 được xác định như sau:\na) Hệ số mặt bằng K là tỉ số của diện tích ở trên diện tích xây dựng hoặc diện tích ở căn hộ trên\ndiện tích sàn của căn hộ.\nK = Diện tích ở / Diện tích xây dựng (sàn)\nb) Hệ số mặt bằng K1 là tỉ số của diện tích ở trên diện tích sử dụng của ngôi nhà hoặc căn hộ:\nK1 = Diện tích ở / Diện tích sử dụng\nc) Hệ số khối K2 là tỉ số của khối tích xây dựng của ngôi nhà (căn hộ) trên diện tích ở:\nK2 = Khối tích xây dựng của ngôi nhà (căn hộ) / Diện tích ở\nd) Các hệ số khối, mặt bằng có thể dao động trong các khoảng:\nK = 0,40 đến 0,45\nK1 = 0,48 đến 0,55\nK2 = 0,50 đến 6,50",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục B: Phương pháp xác định hệ số khối mặt bằng của nhà ở",
+    "page": 17
+  },
+  {
+    "text": "Diện tích của cửa lấy ánh sáng được tính như sau:\na) Với cửa sổ lấy bằng khoảng tường trống để lắp cửa;\nb) Với cửa đi lấy bằng diện tích của khoảng kính lấy ánh sáng không trừ đố;\nc) Với lỗ hoa lấy bằng khoảng trống của lỗ hoa, khi bề dày của lỗ hoa không quá 10 cm. Nếu quá\n10 cm thì lấy bằng 2/3 khoảng trống của lỗ hoa.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục C: Diện tích và loại cửa lấy ánh sáng",
+    "page": 17
+  },
+  {
+    "text": "Những cửa sau đây được tính vào diện tích lấy ánh sáng:a) Cửa sổ mở trực tiếp ra ngoài trời, hiên lô gia, ban công hoặc hành lang bên thoáng (không có\ntường ngoài và cửa sổ);\nb) Phần kính của cửa đi khi mở trực tiếp ra hiên, lô gia, ban công hoặc hành lang thoáng.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục C: Diện tích và loại cửa lấy ánh sáng",
+    "page": 18
+  },
+  {
+    "text": "Những loại cửa sau đây không tính vào diện tích lấy ánh sáng:\na) Cửa sổ và cửa mở đi về phía hành lang giữa, hành lang bên;\nb) Cửa hãm, lôgia, lỗ trống dùng để thông hơi;\nc) Cửa ngăn cách giữa các phòng.",
+    "doc_code": "TCVN4451_2012",
+    "doc_name": "NHÀ Ở - NGUYÊN TẮC CƠ BẢN ĐỂ THIẾT KẾ",
+    "section": "Phụ lục C: Diện tích và loại cửa lấy ánh sáng",
+    "page": 18
+  }
+]
